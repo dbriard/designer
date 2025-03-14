@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="694" height="995" viewBox="1.4997152, 0.373, 130.1003, 185.5675" id="Layer_2" data-name="Layer 2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9f88bd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #FFFFFF; fill-opacity:0.002;
+        
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2_00000158743423587342914700000014887818011305889424_unfilled" data-name="Layer 1-2 00000158743423587342914700000014887818011305889424 unfilled">
+    <path d="m66.6 186.3 L1.6 49.5 L66.6 0 l65 49.5 l-65 136.8 h0 Z M4.1 50.1 l62.5 131.6 l62.5 -131.6 L66.6 2.5 L4.1 50.1 Z" stroke-width="0px" class="cls-1" style="fill:#9F88BD;" />
+  </g>
+  <polygon points="4.1,50.1 66.6,181.7 129.1,50.1 66.6,2.5 4.1,50.1" stroke-width="0px" fill-opacity="0" class="cls-2" style="fill:white;" />
+</svg>

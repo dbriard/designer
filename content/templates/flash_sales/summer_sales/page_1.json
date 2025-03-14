@@ -1,0 +1,241 @@
+{
+  "Title": "Summer Sales",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Summer Sales"
+    },
+    {
+      "Language": "fr",
+      "Title": "Soldes d\u0027\u00E9t\u00E9"
+    },
+    {
+      "Language": "it",
+      "Title": "Saldi estivi"
+    },
+    {
+      "Language": "de",
+      "Title": "Sommerschlussverkauf"
+    },
+    {
+      "Language": "es",
+      "Title": "Rebajas de verano"
+    }
+  ],
+  "Total": 15,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale02.idtpl",
+      "Translations": [],
+      "FileSize": 1677666,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e9fd1a598a5a383f83dcbfc4d70a9dbf.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e9fd1a598a5a383f83dcbfc4d70a9dbf-160x160.jpg",
+      "Color": "#ff9b9d93",
+      "BlurHash": "KaN1M%IU0fR*nhW?X8e-xu",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale03.idtpl",
+      "Translations": [],
+      "FileSize": 1700194,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/1b8da9e91f8d69de5f93195655aa4342.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/1b8da9e91f8d69de5f93195655aa4342-160x160.jpg",
+      "Color": "#ffb4c2ba",
+      "BlurHash": "KiO|nRJhL}NISuNxM_X8rq",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale04.idtpl",
+      "Translations": [],
+      "FileSize": 1961801,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ac00cd5fa8b67970a660942619f0442c.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ac00cd5fa8b67970a660942619f0442c-160x160.jpg",
+      "Color": "#ffa8b7b8",
+      "BlurHash": "KNN^-y3ED$%#NfD%4.t7,.",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale06.idtpl",
+      "Translations": [],
+      "FileSize": 1856480,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/399e5d3bbc35a9bc2a0fea6fd6916ee8.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/399e5d3bbc35a9bc2a0fea6fd6916ee8-160x160.jpg",
+      "Color": "#ff7ea8ab",
+      "BlurHash": "KVKL~*E20KMykqxC0eS5-U",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale07.idtpl",
+      "Translations": [],
+      "FileSize": 1782829,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c164500ef112394fd24a414e8ac592b8.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c164500ef112394fd24a414e8ac592b8-160x160.jpg",
+      "Color": "#ffc6bcae",
+      "BlurHash": "KbPjADM{R473SOt70yWBS5",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale08.idtpl",
+      "Translations": [],
+      "FileSize": 1757389,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d2bc38fb1e1a52d0d5d73b5268778fc9.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d2bc38fb1e1a52d0d5d73b5268778fc9-160x160.jpg",
+      "Color": "#ffb7c0a8",
+      "BlurHash": "KTP7I7t60f22a#I[,iWC,-",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale09.idtpl",
+      "Translations": [],
+      "FileSize": 1894430,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/0585a000601dc92292b7aa77536e42af.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/0585a000601dc92292b7aa77536e42af-160x160.jpg",
+      "Color": "#ffaeb594",
+      "BlurHash": "KOO4S4\u002BZ0d=rmjo#0xafn.",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale10.idtpl",
+      "Translations": [],
+      "FileSize": 2231292,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/3e70377117a41c87eba4aec3b79a466f.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/3e70377117a41c87eba4aec3b79a466f-160x160.jpg",
+      "Color": "#ffaecbd2",
+      "BlurHash": "KKOz[B%$ELPXm\u002BKQR4ozwH",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale11.idtpl",
+      "Translations": [],
+      "FileSize": 1709759,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/76f52f2d0e404143f94387c66256a4dc.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/76f52f2d0e404143f94387c66256a4dc-160x160.jpg",
+      "Color": "#ffab9e8e",
+      "BlurHash": "KXOf=G?G4TNZozwwxVxYx]",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale12.idtpl",
+      "Translations": [],
+      "FileSize": 1453387,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/6adb887d02970abdca4af3569971da10.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/6adb887d02970abdca4af3569971da10-160x160.jpg",
+      "Color": "#ffb8aebd",
+      "BlurHash": "KNP6zC-o0NH\u002BIoa#qZI?$y",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale13.idtpl",
+      "Translations": [],
+      "FileSize": 1452434,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/dc09d04468476d9ce10f6839ae05ce0a.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/dc09d04468476d9ce10f6839ae05ce0a-160x160.jpg",
+      "Color": "#ffcbd3c1",
+      "BlurHash": "KKQmL*]}9?Kkz-R*zmi]wK",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale14.idtpl",
+      "Translations": [],
+      "FileSize": 1381121,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a807dd544b950eabaa79c08e120dfa76.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a807dd544b950eabaa79c08e120dfa76-160x160.jpg",
+      "Color": "#ffb199a9",
+      "BlurHash": "KQOfu|IB4U6KOSS~ICOq%M",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale15.idtpl",
+      "Translations": [],
+      "FileSize": 1363403,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/fb7e2b00edefbcfc0f230a4d13bf841f.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/fb7e2b00edefbcfc0f230a4d13bf841f-160x160.jpg",
+      "Color": "#ffa6aa9e",
+      "BlurHash": "KRNn8WsSD\u002B-TS4TL1IS4tm",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale16.idtpl",
+      "Translations": [],
+      "FileSize": 1432052,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ec8091a4dba2d34f08c6578bc338f186.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ec8091a4dba2d34f08c6578bc338f186-160x160.jpg",
+      "Color": "#ffa9b6b1",
+      "BlurHash": "KcNnHyS6I9xvSPWA0zoLs:",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-summersale05.idtpl",
+      "Translations": [],
+      "FileSize": 3382739,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d2f9c74f2ef31a23afd05a430c053de5.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d2f9c74f2ef31a23afd05a430c053de5-160x160.jpg",
+      "Color": "#ffa8bbb5",
+      "BlurHash": "KKOD^2%LDNPCrstmHq,D[p",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/summer_sales/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/summer_sales/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/summer_sales/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/summer_sales/page_1.json"
+}

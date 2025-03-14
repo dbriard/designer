@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1000" height="1000" viewBox="0, 0, 185.4, 185.4" id="Layer_2" data-name="Layer 2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff7676;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path d="M179.4 6.1 v173.2 H6.2 V6.1 h173.2 M183.4 2.1 H2.2 v181.2 h181.2 V2.1 h0 Z" stroke-width="0px" class="cls-1" style="fill:#FF7676;" />
+  <g id="Layer_1-2_00000047046363886376180550000015135665400318065041_unfilled" data-name="Layer 1-2 00000047046363886376180550000015135665400318065041 unfilled">
+    <path d="M185.4 185.4 H0 V0 h185.4 v185.4 Z M2.1 183.3 h181.2 V2.1 H2.1 v181.2 h0 Z" stroke-width="0px" class="cls-1" style="fill:#FF7676;" />
+  </g>
+</svg>

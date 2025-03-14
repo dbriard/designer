@@ -1,0 +1,228 @@
+{
+  "Title": "Singles\u0027 Day",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Singles\u0027 Day"
+    },
+    {
+      "Language": "fr",
+      "Title": "F\u00EAte des c\u00E9libataires"
+    },
+    {
+      "Language": "it",
+      "Title": "Festa dei single"
+    },
+    {
+      "Language": "de",
+      "Title": "Singles\u0027 Day"
+    },
+    {
+      "Language": "es",
+      "Title": "D\u00EDa de los solteros"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday01.idtpl",
+      "Translations": [],
+      "FileSize": 708374,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e5449ff8f3338c709b4375dc4bf41752.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e5449ff8f3338c709b4375dc4bf41752-160x160.jpg",
+      "Color": "#ffc6c4ca",
+      "BlurHash": "K9Q0UD014._2-:M{01Rk^\u002B",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday02.idtpl",
+      "Translations": [],
+      "FileSize": 667076,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/976f62845a8342206605f003dcfae541.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/976f62845a8342206605f003dcfae541-160x160.jpg",
+      "Color": "#ffb4a3b1",
+      "BlurHash": "KEO:he014o]f4o9GIBIA_3",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday03.idtpl",
+      "Translations": [],
+      "FileSize": 736294,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f9e3679f5179353976c51600d1769649.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f9e3679f5179353976c51600d1769649-160x160.jpg",
+      "Color": "#ffcbb0bd",
+      "BlurHash": "KHQSi1%L4UvfMxX5SPV[oz",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday04.idtpl",
+      "Translations": [],
+      "FileSize": 638000,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/37a68c4ed2268bd4643b904e5eb62b86.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/37a68c4ed2268bd4643b904e5eb62b86-160x160.jpg",
+      "Color": "#ffcf788a",
+      "BlurHash": "KXQat7%fD5_No}w|OUWBk;",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday05.idtpl",
+      "Translations": [],
+      "FileSize": 792447,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/40ec68f43c97d09a5995b90a6f2eb177.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/40ec68f43c97d09a5995b90a6f2eb177-160x160.jpg",
+      "Color": "#ffa05965",
+      "BlurHash": "KNOxtY$\u002B=e?bSKNa?^o#t,",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday06.idtpl",
+      "Translations": [],
+      "FileSize": 928384,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/666306729786d39a5a4ba23a252b3a36.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/666306729786d39a5a4ba23a252b3a36-160x160.jpg",
+      "Color": "#ff5f4750",
+      "BlurHash": "KiKTP\u002BxuVY.8baaK}ubH%2",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday07.idtpl",
+      "Translations": [],
+      "FileSize": 736307,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/744362273184723084874526f000a461.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/744362273184723084874526f000a461-160x160.jpg",
+      "Color": "#ff414041",
+      "BlurHash": "KGFPEM?b00?b%gfkD%V[_3",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday08.idtpl",
+      "Translations": [],
+      "FileSize": 816462,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a578195fff354c20c4e75033ec2a1634.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a578195fff354c20c4e75033ec2a1634-160x160.jpg",
+      "Color": "#ffbdb8ac",
+      "BlurHash": "KaPP}wIp8^kDIpa~Rlf6o#",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday09.idtpl",
+      "Translations": [],
+      "FileSize": 1042171,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ddddf4fd4a6c7b24b76dcd040248cb7a.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ddddf4fd4a6c7b24b76dcd040248cb7a-160x160.jpg",
+      "Color": "#ff83484a",
+      "BlurHash": "KcLyE1xG4T#8WVrr%2j[S#",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday10.idtpl",
+      "Translations": [],
+      "FileSize": 910594,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/2ecd0949cdc4c9d7513079479866f330.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/2ecd0949cdc4c9d7513079479866f330-160x160.jpg",
+      "Color": "#ff9a4641",
+      "BlurHash": "KSM}t2sVVCBnR\u002Boz0LW;%f",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday11.idtpl",
+      "Translations": [],
+      "FileSize": 623066,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/251d3bde318b9a5c7a62246ad56a43af.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/251d3bde318b9a5c7a62246ad56a43af-160x160.jpg",
+      "Color": "#ff9b3037",
+      "BlurHash": "KQNa9~0fVE~Vm,WBMxaeyD",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday12.idtpl",
+      "Translations": [],
+      "FileSize": 813815,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d4e4dad802300cd19a6018bef91d1856.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d4e4dad802300cd19a6018bef91d1856-160x160.jpg",
+      "Color": "#ffa5483f",
+      "BlurHash": "KMN@~MRjD44:ofJ%Edj[yD",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday13.idtpl",
+      "Translations": [],
+      "FileSize": 628755,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/bb575d3ae612b1d536b758e84495b0d3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/bb575d3ae612b1d536b758e84495b0d3-160x160.jpg",
+      "Color": "#ff44387e",
+      "BlurHash": "KcFFC1bbD*#Aayt69DjZ%L",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "singleday14.idtpl",
+      "Translations": [],
+      "FileSize": 697294,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/88a3a736b082e849d96de69841cae876.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/88a3a736b082e849d96de69841cae876-160x160.jpg",
+      "Color": "#ff472f75",
+      "BlurHash": "KYG7[_W;9E0]juW9Q.jsyC",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 144,
+    "MinItemHeight": 144,
+    "MaximumRowsOrColumns": 2,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/singles%27_day/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/singles%27_day/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/singles%27_day/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/singles%27_day/page_1.json"
+}

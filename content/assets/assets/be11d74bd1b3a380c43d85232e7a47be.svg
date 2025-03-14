@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="997" height="862" viewBox="0, 0, 184.94351, 160.2" id="Layer_2" data-name="Layer 2">
+  <defs>
+    <style>
+      .cls-1 {
+        
+      }
+
+      .cls-2 {
+        fill: #9f88bd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #FFFFFF; fill-opacity:0.002;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1-2" class="cls-1">
+    <path d="m137.6 158.2 H47.4 L2.3 80.1 L47.4 2 h90.2 l45.1 78.1 l-45.1 78.1 Z" stroke-width="0px" fill-opacity="0" class="cls-3" style="fill:white;" />
+  </g>
+  <g id="Layer_1-2_00000159436489364112192780000007366443391729991603_unfilled" data-name="Layer 1-2 00000159436489364112192780000007366443391729991603 unfilled">
+    <path d="m138.7 160.2 H46.2 l-0.3 -0.5 L0 80.1 l0.3 -0.5 L46.2 0 h92.5 l0.3 0.5 l46 79.6 l-0.3 0.5 l-46 79.6 h0 Z m-91.3 -2 h90.2 l45.1 -78.1 L137.6 2 H47.4 L2.3 80.1 l45.1 78.1 h0 Z" stroke-width="0px" class="cls-2" style="fill:#9F88BD;" />
+  </g>
+</svg>

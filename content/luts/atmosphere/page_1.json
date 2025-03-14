@@ -1,0 +1,130 @@
+{
+  "Title": "Atmosphere",
+  "ElementType": 8,
+  "Translations": [
+    {
+      "Language": "fr",
+      "Title": "Atmosphere"
+    }
+  ],
+  "Total": 12,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "atmosphere_01",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_01.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_01-148x128.png",
+      "Color": "#ffccae8b"
+    },
+    {
+      "Id": "atmosphere_02",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_02.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_02-148x128.png",
+      "Color": "#ffc7a567"
+    },
+    {
+      "Id": "atmosphere_03",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_03.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_03-148x128.png",
+      "Color": "#ffd6b79a"
+    },
+    {
+      "Id": "atmosphere_04",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_04.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_04-148x128.png",
+      "Color": "#ffb28e78"
+    },
+    {
+      "Id": "atmosphere_05",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_05.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_05-148x128.png",
+      "Color": "#ffbdab8c"
+    },
+    {
+      "Id": "atmosphere_06",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_06.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_06-148x128.png",
+      "Color": "#ffd7b53c"
+    },
+    {
+      "Id": "atmosphere_07",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_07.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_07-148x128.png",
+      "Color": "#ffd7c09c"
+    },
+    {
+      "Id": "atmosphere_08",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_08.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_08-148x128.png",
+      "Color": "#ffcebfb2"
+    },
+    {
+      "Id": "atmosphere_09",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_09.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_09-148x128.png",
+      "Color": "#ffc0a572"
+    },
+    {
+      "Id": "atmosphere_10",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_10.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917702,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_10-148x128.png",
+      "Color": "#ffcfa963"
+    },
+    {
+      "Id": "atmosphere_11",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_11.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_11-148x128.png",
+      "Color": "#ffdbc8c2"
+    },
+    {
+      "Id": "atmosphere_12",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_12.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917701,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/atmosphere/atmosphere_12-148x128.png",
+      "Color": "#ffccaa61"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": 0,
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "Featured": 12
+}

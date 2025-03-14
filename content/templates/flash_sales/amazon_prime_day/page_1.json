@@ -1,0 +1,228 @@
+{
+  "Title": "Amazon Prime Day",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Amazon Prime Day"
+    },
+    {
+      "Language": "fr",
+      "Title": "Prime Day Amazon"
+    },
+    {
+      "Language": "it",
+      "Title": "Amazon Prime Day"
+    },
+    {
+      "Language": "de",
+      "Title": "Amazon Prime Day"
+    },
+    {
+      "Language": "es",
+      "Title": "Amazon Prime Day"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 01.idtpl",
+      "Translations": [],
+      "FileSize": 2817164,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ec255143acfccb920e9e681e4a3e0285.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ec255143acfccb920e9e681e4a3e0285-160x160.jpg",
+      "Color": "#ffd99c3e",
+      "BlurHash": "KmQ[hjofvx}hayWY5Fj[kB",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 02.idtpl",
+      "Translations": [],
+      "FileSize": 984825,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/93c6bfd94dafee7b3ba55f4b9343cbd7.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/93c6bfd94dafee7b3ba55f4b9343cbd7-160x160.jpg",
+      "Color": "#ffe4c137",
+      "BlurHash": "KOSFEDt6,~xajZNLncWqfo",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 03.idtpl",
+      "Translations": [],
+      "FileSize": 998124,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c5660a801ba645eec6e173083a810f12.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c5660a801ba645eec6e173083a810f12-160x160.jpg",
+      "Color": "#ff39aaf0",
+      "BlurHash": "KWEPmFoz1Q5@V[$L$xo3R.",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 04.idtpl",
+      "Translations": [],
+      "FileSize": 1005325,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/0c299fe04eb73b17bb2bde49c29320cc.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/0c299fe04eb73b17bb2bde49c29320cc-160x160.jpg",
+      "Color": "#ff46adf1",
+      "BlurHash": "KUG2THoz1Q5@ae$K-5oMNx",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 05.idtpl",
+      "Translations": [],
+      "FileSize": 1219614,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/4e4e4adb68acc8776bb3d270c5ccf2f5.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/4e4e4adb68acc8776bb3d270c5ccf2f5-160x160.jpg",
+      "Color": "#ffb199af",
+      "BlurHash": "KVO3w.X\u002BD.~UWXNb0yo3n\u002B",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 06.idtpl",
+      "Translations": [],
+      "FileSize": 1445476,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/9fb018ef890db9098f536255dc1eea67.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/9fb018ef890db9098f536255dc1eea67-160x160.jpg",
+      "Color": "#ff36c6ce",
+      "BlurHash": "KUE?wFBB5,2u;M$g;2bcR,",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 07.idtpl",
+      "Translations": [],
+      "FileSize": 3505971,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8e24cc35b30709b81d41a59a58162c45.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8e24cc35b30709b81d41a59a58162c45-160x160.jpg",
+      "Color": "#ffbe9e78",
+      "BlurHash": "KGP~v6xuMHZ#WBXTyEofWB",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 8.idtpl",
+      "Translations": [],
+      "FileSize": 1107034,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/cefa96ac76c62e4e0a953e985522b6ec.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/cefa96ac76c62e4e0a953e985522b6ec-160x160.jpg",
+      "Color": "#ff9887ef",
+      "BlurHash": "KWNAJvt79kqUt2wIaKofS5",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 9.idtpl",
+      "Translations": [],
+      "FileSize": 3525410,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c2067cf7670eb64370f50ac8d395e0fd.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c2067cf7670eb64370f50ac8d395e0fd-160x160.jpg",
+      "Color": "#ffa6a39a",
+      "BlurHash": "KLN^YmDiITt6%gM{4TRk%N",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 10.idtpl",
+      "Translations": [],
+      "FileSize": 5513805,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/24dfc851aa4163c0b11387173a80d503.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/24dfc851aa4163c0b11387173a80d503-160x160.jpg",
+      "Color": "#ffdfd388",
+      "BlurHash": "KYRyZbtG-BxhScj_J6oOxU",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 11.idtpl",
+      "Translations": [],
+      "FileSize": 1223923,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7590cc6fe0cb1fc9db4b58310e9f6b80.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7590cc6fe0cb1fc9db4b58310e9f6b80-160x160.jpg",
+      "Color": "#ffafbdbc",
+      "BlurHash": "KRO;JGTecFT}jDVrM^R\u002Bo~",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 12.idtpl",
+      "Translations": [],
+      "FileSize": 1126950,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c4f5f3d8c547940a69d28c8c8f8f4c9b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c4f5f3d8c547940a69d28c8c8f8f4c9b-160x160.jpg",
+      "Color": "#ff3b4365",
+      "BlurHash": "KWEfy=t6024nWX%L-;ofRk",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 13.idtpl",
+      "Translations": [],
+      "FileSize": 1425135,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/3348febad27c1f65a72606aba905f41e.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/3348febad27c1f65a72606aba905f41e-160x160.jpg",
+      "Color": "#ff943d3d",
+      "BlurHash": "KZM;|1S#HXHrWBTdTxofn4",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Amazon Prime Day 14.idtpl",
+      "Translations": [],
+      "FileSize": 1586341,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d551b78e82afdfe3ae86f0c760ccd09a.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d551b78e82afdfe3ae86f0c760ccd09a-160x160.jpg",
+      "Color": "#ff3faaf2",
+      "BlurHash": "KaG2QAD@Em0;,.wI-5t6WE",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 144,
+    "MinItemHeight": 144,
+    "MaximumRowsOrColumns": 2,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/amazon_prime_day/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/amazon_prime_day/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/amazon_prime_day/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/amazon_prime_day/page_1.json"
+}

@@ -1,0 +1,130 @@
+{
+  "Title": "Vintage",
+  "ElementType": 8,
+  "Translations": [
+    {
+      "Language": "fr",
+      "Title": "Vintage"
+    }
+  ],
+  "Total": 12,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "vintage_01",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_01.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_01-148x128.png",
+      "Color": "#ffbfa897"
+    },
+    {
+      "Id": "vintage_02",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_02.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_02-148x128.png",
+      "Color": "#ffc8ae8b"
+    },
+    {
+      "Id": "vintage_03",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_03.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_03-148x128.png",
+      "Color": "#ffc2b08f"
+    },
+    {
+      "Id": "vintage_04",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_04.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_04-148x128.png",
+      "Color": "#ffcbaf7c"
+    },
+    {
+      "Id": "vintage_05",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_05.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_05-148x128.png",
+      "Color": "#ffcbab8c"
+    },
+    {
+      "Id": "vintage_06",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_06.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_06-148x128.png",
+      "Color": "#ffc4ac9c"
+    },
+    {
+      "Id": "vintage_07",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_07.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_07-148x128.png",
+      "Color": "#ffc4ad96"
+    },
+    {
+      "Id": "vintage_08",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_08.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_08-148x128.png",
+      "Color": "#ffc8ac90"
+    },
+    {
+      "Id": "vintage_09",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_09.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917739,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_09-148x128.png",
+      "Color": "#ffcbb26d"
+    },
+    {
+      "Id": "vintage_10",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_10.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917740,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_10-148x128.png",
+      "Color": "#ffbfb28d"
+    },
+    {
+      "Id": "vintage_11",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_11.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917740,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_11-148x128.png",
+      "Color": "#ffc2ae98"
+    },
+    {
+      "Id": "vintage_12",
+      "Url": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_12.cube",
+      "Width": 361,
+      "Height": 311,
+      "FileSize": 917740,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/luts/vintage/vintage_12-148x128.png",
+      "Color": "#ffc5ad95"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": 0,
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "Featured": 12
+}

@@ -1,0 +1,228 @@
+{
+  "Title": "Spotlight podiums",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Spotlight podiums"
+    },
+    {
+      "Language": "fr",
+      "Title": "Podiums sous les projecteurs"
+    },
+    {
+      "Language": "it",
+      "Title": "Podi sotto i riflettori"
+    },
+    {
+      "Language": "de",
+      "Title": "Spotlight-Podeste"
+    },
+    {
+      "Language": "es",
+      "Title": "Podios en el foco"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_01.idtpl",
+      "Translations": [],
+      "FileSize": 218173,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/002ec506a6fbf253602412ab19305ccf.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/002ec506a6fbf253602412ab19305ccf-160x98.jpg",
+      "Color": "#ffebe7e6",
+      "BlurHash": "L3SY]htSae%g~qIoD%ofxuf7RkV[",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_02.idtpl",
+      "Translations": [],
+      "FileSize": 244314,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/4336227e875a0b391ec1fa63b6d3b359.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/4336227e875a0b391ec1fa63b6d3b359-160x98.jpg",
+      "Color": "#ff9dadc9",
+      "BlurHash": "LMNKk@oz0LWEIUj[IVWVRkay%LoL",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_03.idtpl",
+      "Translations": [],
+      "FileSize": 627279,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/683b8dfcff1de3b8f3f0dfc280c1164a.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/683b8dfcff1de3b8f3f0dfc280c1164a-160x98.jpg",
+      "Color": "#ffa5b7bf",
+      "BlurHash": "LLONg^~UNd%Lxv%KjYRkRjbbxZay",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_04.idtpl",
+      "Translations": [],
+      "FileSize": 1195474,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e476bbe19afcc4bcb0c9b76e403ded1e.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e476bbe19afcc4bcb0c9b76e403ded1e-160x98.jpg",
+      "Color": "#ff8d908c",
+      "BlurHash": "LHMaY6~p9Fxu-=%4t8WUITRit7j[",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_05.idtpl",
+      "Translations": [],
+      "FileSize": 342887,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7421a76510a5ae7424a8de3bbc70ed28.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7421a76510a5ae7424a8de3bbc70ed28-160x98.jpg",
+      "Color": "#ffdbd0bc",
+      "BlurHash": "LORfUhxa.8R*_NWXITt7IUaxkCWB",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_06.idtpl",
+      "Translations": [],
+      "FileSize": 290117,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/55cfd9df37ece2f48b607c14e631f78b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/55cfd9df37ece2f48b607c14e631f78b-160x98.jpg",
+      "Color": "#ffc8bcba",
+      "BlurHash": "LBQS-u%gDjMd4TbHIUjZM{V@o|oz",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_07.idtpl",
+      "Translations": [],
+      "FileSize": 266753,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f6a61a8f718a9b33f0dc2e2cfa1dacdc.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f6a61a8f718a9b33f0dc2e2cfa1dacdc-160x98.jpg",
+      "Color": "#ff715b65",
+      "BlurHash": "LPKAyzof0Kay9Fa{RPays:azx[kB",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_08.idtpl",
+      "Translations": [],
+      "FileSize": 1319380,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/0e7fec3f867fbb1bb8e13c0e11b5c6e9.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/0e7fec3f867fbb1bb8e13c0e11b5c6e9-160x98.jpg",
+      "Color": "#ffd9e0d6",
+      "BlurHash": "LBRMk~NsI9-q~Xxv%MV@D$MxIoWX",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_09.idtpl",
+      "Translations": [],
+      "FileSize": 2938933,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/433821bf1911ab8d5baa30c04041c1a7.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/433821bf1911ab8d5baa30c04041c1a7-160x98.jpg",
+      "Color": "#ffdec2d2",
+      "BlurHash": "LBRojextMexb8yWDRPaeH@j@o|j]",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_10.idtpl",
+      "Translations": [],
+      "FileSize": 222577,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b9d121a0c89e3c5ef4ea8166e6624f3d.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b9d121a0c89e3c5ef4ea8166e6624f3d-160x98.jpg",
+      "Color": "#ff94938a",
+      "BlurHash": "LNNAn?00D%ofWBRjM{Rjt8oft7WB",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_11.idtpl",
+      "Translations": [],
+      "FileSize": 385930,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/98450ba2370f41031be7817e1be70490.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/98450ba2370f41031be7817e1be70490-160x98.jpg",
+      "Color": "#ffdebeb0",
+      "BlurHash": "L8Ry4@.9Vrxu~faxi_ozTgWAo~a{",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_12.idtpl",
+      "Translations": [],
+      "FileSize": 1230516,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7784578d0a3a1353bf085c02c3aa6a2f.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7784578d0a3a1353bf085c02c3aa6a2f-160x98.jpg",
+      "Color": "#ffcfa2a5",
+      "BlurHash": "LIR2rlxvt\u002Bxu^|aeVsozy?bFRPVt",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_13.idtpl",
+      "Translations": [],
+      "FileSize": 332157,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/4fc858108bae0242d514b5f12647fa16.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/4fc858108bae0242d514b5f12647fa16-160x98.jpg",
+      "Color": "#ffd5d4d3",
+      "BlurHash": "L7RMYtxu.Tt8ITof%NRjIVays.of",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp-templates-spotlight-podiums_14.idtpl",
+      "Translations": [],
+      "FileSize": 463737,
+      "Width": 3358,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d982fb042de703443f3410d5213c2689.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d982fb042de703443f3410d5213c2689-160x98.jpg",
+      "Color": "#ff9ea3ae",
+      "BlurHash": "L7Nwf:kCxv%M~qt74nRjD%WV%Lof",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/misc/spotlight_podiums/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/misc/spotlight_podiums/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/misc/spotlight_podiums/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/misc/spotlight_podiums/page_1.json"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1000" height="615" viewBox="0, 0, 185.4, 113.8149" id="Layer_2" data-name="Layer 2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fea1cb;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path d="M154.3 113.9 H31 c-17.1 0 -31 -13.9 -31 -31 V31 C0 13.9 13.9 0 31 0 h123.3 c17.1 0 31 13.9 31 31 v51.9 c0 17.1 -13.9 31 -31 31 Z M31 4 c-14.9 0 -27 12.1 -27 27 v51.9 c0 14.9 12.1 27 27 27 h123.3 c14.9 0 27 -12.1 27 -27 V31 c0 -14.9 -12.1 -27 -27 -27 H31 Z" stroke-width="0px" class="cls-1" style="fill:#FEA1CB;" />
+  <g id="Layer_1-2_00000060010832954122992590000002260768143323675520_unfilled" data-name="Layer 1-2 00000060010832954122992590000002260768143323675520 unfilled">
+    <path d="M154.3 113.9 H31 c-17.1 0 -31 -13.9 -31 -31 V31 C0 13.9 13.9 0 31 0 h123.3 c17.1 0 31 13.9 31 31 v51.9 c0 17.1 -13.9 31 -31 31 Z M31 2 C15 2 2 15 2 31 v51.9 c0 16 13 29 29 29 h123.3 c16 0 29 -13 29 -29 V31 c0 -16 -13 -29 -29 -29 H31 Z" stroke-width="0px" class="cls-1" style="fill:#FEA1CB;" />
+  </g>
+</svg>

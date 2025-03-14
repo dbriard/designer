@@ -1,0 +1,142 @@
+{
+  "Title": "Add to Card",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Add to Card"
+    },
+    {
+      "Language": "fr",
+      "Title": "Ajouter au panier"
+    },
+    {
+      "Language": "it",
+      "Title": "Aggiungi al carrello"
+    },
+    {
+      "Language": "de",
+      "Title": "Zum Warenkorb hinzuf\u00FCgen"
+    },
+    {
+      "Language": "es",
+      "Title": "A\u00F1adir al carrito"
+    }
+  ],
+  "Total": 8,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_1.svg",
+      "Translations": [],
+      "FileSize": 3372,
+      "Width": 1000,
+      "Height": 222,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/48d0ffd1cd153b688c0cce71d8d71c52.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/48d0ffd1cd153b688c0cce71d8d71c52-160x35.webp",
+      "Color": "#bfda4343",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_2.svg",
+      "Translations": [],
+      "FileSize": 4918,
+      "Width": 1000,
+      "Height": 397,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/044ea96acc2b5f14cfbcf4e517a8633e.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/044ea96acc2b5f14cfbcf4e517a8633e-160x63.webp",
+      "Color": "#b73f8ad4",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_3.svg",
+      "Translations": [],
+      "FileSize": 3342,
+      "Width": 1000,
+      "Height": 668,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f191ef10eca46beee88b7f3da286ab9c.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f191ef10eca46beee88b7f3da286ab9c-160x107.webp",
+      "Color": "#50398653",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_4.svg",
+      "Translations": [],
+      "FileSize": 5210,
+      "Width": 1000,
+      "Height": 793,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8cd3f203859b90e0e105332529d74c9d.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8cd3f203859b90e0e105332529d74c9d-160x127.webp",
+      "Color": "#73215f9d",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_5.svg",
+      "Translations": [],
+      "FileSize": 3867,
+      "Width": 1000,
+      "Height": 783,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/2139e180ecf60aba4927ca497ea31668.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/2139e180ecf60aba4927ca497ea31668-160x125.webp",
+      "Color": "#7745893c",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_6.svg",
+      "Translations": [],
+      "FileSize": 4274,
+      "Width": 1000,
+      "Height": 210,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/4eb5cf17ec608bbed30d8d23557c5ba3.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/4eb5cf17ec608bbed30d8d23557c5ba3-160x34.webp",
+      "Color": "#b7383838",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_7.svg",
+      "Translations": [],
+      "FileSize": 3271,
+      "Width": 1000,
+      "Height": 204,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/430abfe7a699a843981a4d7069a4d1c9.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/430abfe7a699a843981a4d7069a4d1c9-160x33.webp",
+      "Color": "#37171717",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Add to cart_8.svg",
+      "Translations": [],
+      "FileSize": 8409,
+      "Width": 1000,
+      "Height": 192,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/15de437b72a4ab530c0f6369e3cd1303.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/15de437b72a4ab530c0f6369e3cd1303-160x31.webp",
+      "Color": "#8a2a8cd4",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/add_to_card/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/add_to_card/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/add_to_card/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/add_to_card/page_1.json"
+}

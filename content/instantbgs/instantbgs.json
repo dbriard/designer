@@ -1,0 +1,70 @@
+[
+  {
+    "ElementType": 13,
+    "Title": "Comptoir",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Comptoir"
+      }
+    ],
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": 0,
+      "MaximumRowsOrColumns": 2,
+      "MinItemWidth": 148,
+      "MinItemHeight": 96
+    },
+    "PageLayout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": 0,
+      "MaximumRowsOrColumns": 4,
+      "MinItemWidth": 70,
+      "MinItemHeight": 70
+    },
+    "Total": 4,
+    "PerPage": 30,
+    "Featured": 4,
+    "Results": [
+      {
+        "Id": "422",
+        "Data": "sur une table en bois clair",
+        "Width": 6000,
+        "Height": 4000,
+        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000422-160x107.webp",
+        "BlurHash": "L6DvWVWU0ej[^*j[a}oL4:R\u002BRjjZ",
+        "Color": "#ff312d28"
+      },
+      {
+        "Id": "423",
+        "Data": "sur une table en béton",
+        "Width": 3992,
+        "Height": 2992,
+        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000423-160x120.webp",
+        "BlurHash": "L7L}jYNGVs%N_4-;Rj9Y4nD%-;-=",
+        "Color": "#ff8699b2"
+      },
+      {
+        "Id": "424",
+        "Data": "sur une table en marbre clair",
+        "Width": 6000,
+        "Height": 4000,
+        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000424-160x107.webp",
+        "BlurHash": "L8Ps*MRO_NofM{WVofafWWofR%ay",
+        "Color": "#ffb8b9bc"
+      },
+      {
+        "Id": "425",
+        "Data": "sur une table en bois foncé",
+        "Width": 9000,
+        "Height": 3000,
+        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000425-160x53.webp",
+        "BlurHash": "LHPPfM009Ftl-:RjRjkC%Me.aeWV",
+        "Color": "#ffb59774"
+      }
+    ],
+    "FirstUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/page_1.json",
+    "NextUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/page_1.json",
+    "LastUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/page_1.json"
+  }
+]

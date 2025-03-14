@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0" y="0" width="995" height="996" viewBox="3.072, 1.024, 1018.88, 1019.904" id="master-artboard" style="enable-background:new 0 0 1400 980;">
+  <metadata />
+  <rect x="0" y="0" width="1024" height="1024" id="ee-background" fill-opacity="0" style="pointer-events:none;fill:white;" />
+  <g transform="matrix(10.18839, 0, 0, 10.18839, -251.5199, -252.7926)">
+    <switch>
+      <foreignObject requiredExtensions="&amp;ns_ai;" x="0" y="0" width="1" height="1" />
+      <g>
+        <path d="M-25 -25 H175 V175 H-25 V-25 Z" class="st0" style="fill:none;" />
+        <path d="M75 120.4 c-24.9 0 -45.3 -20.5 -45.3 -45.4 c0 -5.6 1 -10.9 2.9 -15.9 l26.5 53.3 c0.3 0.7 0.8 1.3 1.6 1.3 c0.8 0 1.3 -0.6 1.6 -1.3 l12.2 -27.3 c0.1 -0.3 0.3 -0.6 0.6 -0.6 s0.4 0.3 0.6 0.6 l12.2 27.3 c0.3 0.7 0.8 1.3 1.6 1.3 c0.8 0 1.3 -0.6 1.6 -1.3 l26.5 -53.3 c1.9 5 2.9 10.3 2.9 15.9 C120.3 99.9 99.9 120.4 75 120.4 z M75 64.7 c-0.3 0 -0.4 -0.3 -0.6 -0.6 l-14.2 -32 c4.6 -1.7 9.6 -2.6 14.8 -2.6 c5.2 0 10.2 0.9 14.8 2.6 l-14.2 32 C75.4 64.5 75.3 64.7 75 64.7 z M60.5 97.6 c-0.3 0 -0.4 -0.3 -0.6 -0.6 l-23 -46.4 c4.1 -6.3 9.6 -11.6 16.3 -15.3 l16.6 36.9 C70 72.8 70.5 73 71 73 h8 c0.6 0 1 -0.1 1.3 -0.8 l16.6 -36.9 c6.6 3.7 12.2 9 16.3 15.3 L90 97 c-0.1 0.3 -0.3 0.6 -0.6 0.6 c-0.3 0 -0.4 -0.3 -0.6 -0.6 l-8.7 -19.8 c-0.3 -0.7 -0.7 -0.8 -1.3 -0.8 h-8 c-0.6 0 -1 0.1 -1.3 0.8 L61.1 97 C61 97.3 60.8 97.6 60.5 97.6 z M75 125 c27.7 0 50 -22.3 50 -50 c0 -27.7 -22.3 -50 -50 -50 c-27.7 0 -50 22.3 -50 50 C25 102.7 47.3 125 75 125 z" class="st1" style="fill:#001E50;" />
+      </g>
+    </switch>
+  </g>
+</svg>

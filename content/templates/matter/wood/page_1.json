@@ -1,0 +1,228 @@
+{
+  "Title": "Wood",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Wood"
+    },
+    {
+      "Language": "fr",
+      "Title": "Bois"
+    },
+    {
+      "Language": "it",
+      "Title": "Legno"
+    },
+    {
+      "Language": "de",
+      "Title": "Holz"
+    },
+    {
+      "Language": "es",
+      "Title": "Madera"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-1.idtpl",
+      "Translations": [],
+      "FileSize": 1665490,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ab7c7cc9e07c065c0419e23bb8744dc4.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ab7c7cc9e07c065c0419e23bb8744dc4-160x160.jpg",
+      "Color": "#ffb99880",
+      "BlurHash": "KYPFlsxuHqs:aeWBHqflyE",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-2.idtpl",
+      "Translations": [],
+      "FileSize": 2127198,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/764fbaea5ff2a0b0f87e2f26ed10125b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/764fbaea5ff2a0b0f87e2f26ed10125b-160x160.jpg",
+      "Color": "#ffbea58a",
+      "BlurHash": "KWPihcV=DNn#t6ayH;aztT",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-3.idtpl",
+      "Translations": [],
+      "FileSize": 1703048,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/2596c96e6e3125cee859fe01fe6d37ea.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/2596c96e6e3125cee859fe01fe6d37ea-160x160.jpg",
+      "Color": "#ffb1aeac",
+      "BlurHash": "KEOWseRi00-pjsay01Rj?b",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-4.idtpl",
+      "Translations": [],
+      "FileSize": 1521051,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d894afcdc17c33cc53429029c42725d5.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d894afcdc17c33cc53429029c42725d5-160x160.jpg",
+      "Color": "#ffbc9e85",
+      "BlurHash": "KVPPP,R5HqtRWBWBH;ayyE",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-5.idtpl",
+      "Translations": [],
+      "FileSize": 1760410,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/9c7d0e2877d534beef92f5bc32d8d141.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/9c7d0e2877d534beef92f5bc32d8d141-160x160.jpg",
+      "Color": "#ffc9ab8f",
+      "BlurHash": "KTQb:#o$Q\u002Bt7oJa#QkWCpJ",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-6.idtpl",
+      "Translations": [],
+      "FileSize": 1416080,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b82057bca645b630628fe962f7061eb4.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b82057bca645b630628fe962f7061eb4-160x160.jpg",
+      "Color": "#ffc4aa93",
+      "BlurHash": "KOQ9M_t7MHt6ayWBMHWCyE",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-7.idtpl",
+      "Translations": [],
+      "FileSize": 1627128,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/53f52cd3ed55d7c902d5a2658d631b1c.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/53f52cd3ed55d7c902d5a2658d631b1c-160x160.jpg",
+      "Color": "#ffd1beaa",
+      "BlurHash": "KCRCbz%Lq?%2WBWBq?R*t.",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-8.idtpl",
+      "Translations": [],
+      "FileSize": 1761409,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/fadb412ba3236e9d8fd2aeec66bc4d8d.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/fadb412ba3236e9d8fd2aeec66bc4d8d-160x160.jpg",
+      "Color": "#ffac917c",
+      "BlurHash": "KeN]wnt8DOofjYWV8^oex^",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-9.idtpl",
+      "Translations": [],
+      "FileSize": 1606857,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8c00503046c7459cfc39b6e66616e1c7.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8c00503046c7459cfc39b6e66616e1c7-160x160.jpg",
+      "Color": "#ffb39480",
+      "BlurHash": "KXOybAxuDNofazWCHqfk%h",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-10.idtpl",
+      "Translations": [],
+      "FileSize": 1542846,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/6a85a8136c18112cc5fbb05aa5610649.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/6a85a8136c18112cc5fbb05aa5610649-160x160.jpg",
+      "Color": "#ffc5a585",
+      "BlurHash": "KXQ97ToKQkt7j[bHMHWCtm",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-11.idtpl",
+      "Translations": [],
+      "FileSize": 1526968,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8b8d105fe9a6797a2bc153d75f8cf653.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8b8d105fe9a6797a2bc153d75f8cf653-160x160.jpg",
+      "Color": "#ffbd9d82",
+      "BlurHash": "KYPY#GadH;xujsfRH;WBx^",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-12.idtpl",
+      "Translations": [],
+      "FileSize": 1547139,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a3577f265f878da3d2bcaf2c2ee8dcac.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a3577f265f878da3d2bcaf2c2ee8dcac-160x160.jpg",
+      "Color": "#ffa99384",
+      "BlurHash": "KWN,PUxu8^%2WBazDNfj%h",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-13.idtpl",
+      "Translations": [],
+      "FileSize": 1674006,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/9175b5b45355b022c56815b4780a059d.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/9175b5b45355b022c56815b4780a059d-160x160.jpg",
+      "Color": "#ffcbaf91",
+      "BlurHash": "KUQlaioIZfxuayayQkWCtm",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Wood-14.idtpl",
+      "Translations": [],
+      "FileSize": 1618773,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a17a584207fb43cee0d65336ba9b2114.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a17a584207fb43cee0d65336ba9b2114-160x160.jpg",
+      "Color": "#ffc4aa86",
+      "BlurHash": "KVQ9JxoIQ*n$a}WCMaWBtn",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/matter/wood/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/matter/wood/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/matter/wood/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/matter/wood/page_1.json"
+}

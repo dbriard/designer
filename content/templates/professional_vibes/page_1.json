@@ -1,0 +1,228 @@
+{
+  "Title": "Professional Vibes",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Professional Vibes"
+    },
+    {
+      "Language": "fr",
+      "Title": "Vibes Professionnelles"
+    },
+    {
+      "Language": "it",
+      "Title": "Vibrazioni Professionali"
+    },
+    {
+      "Language": "de",
+      "Title": "Professionelle Vibes"
+    },
+    {
+      "Language": "es",
+      "Title": "Vibraciones Profesionales"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-01.idtpl",
+      "Translations": [],
+      "FileSize": 862044,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/42a843528aead2a0f2519625b1e1ee41.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/42a843528aead2a0f2519625b1e1ee41-160x160.jpg",
+      "Color": "#ffbebdb6",
+      "BlurHash": "KRPjGX^,4m%3Imxatln,xu",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-02.idtpl",
+      "Translations": [],
+      "FileSize": 1098849,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c196a967fbd01c95b4dd767b5de3a1c2.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c196a967fbd01c95b4dd767b5de3a1c2-160x160.jpg",
+      "Color": "#ffc1b27b",
+      "BlurHash": "KDQ081?wR2%L9HkDDiR;9,",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-03.idtpl",
+      "Translations": [],
+      "FileSize": 1264993,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f2ab945731971d43f9a5512a7159ffdc.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f2ab945731971d43f9a5512a7159ffdc-160x160.jpg",
+      "Color": "#ffdc8256",
+      "BlurHash": "KPRdr*-oDgt2RjIpv|s-X.",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-04.idtpl",
+      "Translations": [],
+      "FileSize": 1333236,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ff7fc5f08c17a7003818569bdf487cab.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ff7fc5f08c17a7003818569bdf487cab-160x160.jpg",
+      "Color": "#ff6a5d78",
+      "BlurHash": "KLJaygoy53tRRkbXnnV[xu",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-05.idtpl",
+      "Translations": [],
+      "FileSize": 1820418,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e44725923d8850317569b16e16b32e08.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e44725923d8850317569b16e16b32e08-160x160.jpg",
+      "Color": "#ffa18266",
+      "BlurHash": "KcM?;txZ0JnMoLo~D%oex]",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-06.idtpl",
+      "Translations": [],
+      "FileSize": 1148371,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a8a22a083b0d525ac5d3f4f634e01cb9.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a8a22a083b0d525ac5d3f4f634e01cb9-160x160.jpg",
+      "Color": "#ffb47059",
+      "BlurHash": "KYOeq@xG00xtoLs.Mwaytl",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-07.idtpl",
+      "Translations": [],
+      "FileSize": 2285724,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b1f006781db805214d7b75d4309bc7f4.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b1f006781db805214d7b75d4309bc7f4-160x160.jpg",
+      "Color": "#ffa6c8db",
+      "BlurHash": "KGN_N0OZ0$xZX9ad9|j??G",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-08.idtpl",
+      "Translations": [],
+      "FileSize": 1477818,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/41c399eb902a21027dec14563d0308c1.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/41c399eb902a21027dec14563d0308c1-160x160.jpg",
+      "Color": "#ff65534c",
+      "BlurHash": "KKJ7%TE28^-;RjWBDiRj?c",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-09.idtpl",
+      "Translations": [],
+      "FileSize": 1056229,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/30c6d272a494104b70395dec97596431.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/30c6d272a494104b70395dec97596431-160x160.jpg",
+      "Color": "#ffc17f36",
+      "BlurHash": "KBP=ZAyrQ\u002B~p%y9KEe%dst",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-10.idtpl",
+      "Translations": [],
+      "FileSize": 817020,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/05788e9fc50c29461a050e0ccd2c9a6d.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/05788e9fc50c29461a050e0ccd2c9a6d-160x160.jpg",
+      "Color": "#ff8c9775",
+      "BlurHash": "KFM81Z-=9qWTMxWA4,M_IA",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-11.idtpl",
+      "Translations": [],
+      "FileSize": 905933,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/843024e574d69b471dd5abd542a34ded.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/843024e574d69b471dd5abd542a34ded-160x160.jpg",
+      "Color": "#ff9786ac",
+      "BlurHash": "KLN0rdbvRRDiW-In4Tju.6",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-12.idtpl",
+      "Translations": [],
+      "FileSize": 1649406,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/460e2c5735646b50a22914dbf2f9a1ab.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/460e2c5735646b50a22914dbf2f9a1ab-160x160.jpg",
+      "Color": "#ff903e44",
+      "BlurHash": "KEN7~M\u002B}hf-Wkma2hgsrp_",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-13.idtpl",
+      "Translations": [],
+      "FileSize": 1809594,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/17fd20698b442137b1b1525d238cb8d6.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/17fd20698b442137b1b1525d238cb8d6-160x160.jpg",
+      "Color": "#ff92aab3",
+      "BlurHash": "KOMkb9yYE0$$yZnh4.R*$%",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "professional-vibes-14.idtpl",
+      "Translations": [],
+      "FileSize": 888402,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d0331ad2c1ea4b61f47a41298e184ce3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d0331ad2c1ea4b61f47a41298e184ce3-160x160.jpg",
+      "Color": "#ff9ecaaa",
+      "BlurHash": "KZNeFAWVRLIqMwV]DgRl#7",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/professional_vibes/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/professional_vibes/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/professional_vibes/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/professional_vibes/page_1.json"
+}

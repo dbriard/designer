@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="994" height="474" viewBox="9, 9.00625, 2982, 1422.988" style="fill:#231F20;">
+  <path d="M540 1093 v277 l-94 -267 c-2 -7 -7 -10 -17 -10 h-87 v337 h60 v-274 l93 263 c2 7 8 10 15 10 h90 v-337 h-60 z m310 0 v337 h70 v-144 h125 v-62 H920 v-70 h127 v-62 H850 z m1603 0 v65 h77 v272 h70 v-273 h77 v-65 h-225 z m-1163 337 h75 v-337 h-75 v337 z m850 0 h75 v-337 h-75 v337 z m775 0 h74 v-337 h-74 v337 z m-2905 0 h75 v-337 H10 v337 z m1873 -337 h-60 v277 l-94 -267 c-2 -7 -7 -10 -16 -10 h-88 v337 h60 v-274 l93 263 c2 7 8 10 15 10 h90 v-337 z m-78 -553 l-305 -410 l-305 410 c-103 -10 -280 -77 -280 -196 c0 -150 260 -290 586 -290 c343 0 586 140 586 290 c0 120 -178 187 -280 195 M1500 10 c-422 0 -716 165 -716 378 c0 100 64 212 200 280 c127 63 305 85 330 88 l186 -543 l186 543 a1150 1150 0 0 0 330 -88 c136 -68 200 -180 200 -280 c-1 -214 -294 -378 -716 -378" />
+</svg>

@@ -1,0 +1,250 @@
+{
+  "Title": "Social media",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Social media"
+    },
+    {
+      "Language": "fr",
+      "Title": "M\u00E9dias sociaux"
+    },
+    {
+      "Language": "it",
+      "Title": "Social media"
+    },
+    {
+      "Language": "de",
+      "Title": "Soziale Medien"
+    },
+    {
+      "Language": "es",
+      "Title": "Redes sociales"
+    }
+  ],
+  "Total": 17,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media01.png",
+      "Translations": [],
+      "FileSize": 18252,
+      "Width": 163,
+      "Height": 163,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/31c10b77a7a00cd546bdaac8cad08b09.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/31c10b77a7a00cd546bdaac8cad08b09-160x160.webp",
+      "Color": "#42f03a74",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media02.png",
+      "Translations": [],
+      "FileSize": 32720,
+      "Width": 512,
+      "Height": 256,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/2db5188b7747b8bccff43c5ec8df5397.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/2db5188b7747b8bccff43c5ec8df5397-160x51.webp",
+      "Color": "#30653a60",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media03.png",
+      "Translations": [],
+      "FileSize": 5542,
+      "Width": 120,
+      "Height": 120,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/03b5e93db9255e43560980922c22c3f5.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/03b5e93db9255e43560980922c22c3f5-160x160.webp",
+      "Color": "#a64e97f4",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media04.png",
+      "Translations": [],
+      "FileSize": 19305,
+      "Width": 436,
+      "Height": 245,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/758844e46e4d1dab908f42087ec6310f.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/758844e46e4d1dab908f42087ec6310f-160x30.webp",
+      "Color": "#570364ff",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media05.png",
+      "Translations": [],
+      "FileSize": 9042,
+      "Width": 169,
+      "Height": 168,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8e7b076aacfbfd874b2613b4108e1102.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8e7b076aacfbfd874b2613b4108e1102-160x159.webp",
+      "Color": "#c74d4652",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media06.png",
+      "Translations": [],
+      "FileSize": 15258,
+      "Width": 449,
+      "Height": 131,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/9cfadb11647d9b0a64ec53846f56e73c.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/9cfadb11647d9b0a64ec53846f56e73c-160x47.webp",
+      "Color": "#46120f16",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media07.png",
+      "Translations": [],
+      "FileSize": 4116,
+      "Width": 256,
+      "Height": 256,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/cf1a808a9fe680108b7c452c65ff15d0.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/cf1a808a9fe680108b7c452c65ff15d0-160x160.webp",
+      "Color": "#c0171717",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media08.png",
+      "Translations": [],
+      "FileSize": 8891,
+      "Width": 239,
+      "Height": 174,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f7e9ae0c778d80adb107d31a4b03a7bc.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f7e9ae0c778d80adb107d31a4b03a7bc-160x150.webp",
+      "Color": "#32000000",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media09.png",
+      "Translations": [],
+      "FileSize": 4005,
+      "Width": 169,
+      "Height": 169,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/73a211457a2dd0ac1eb2ec2437c26366.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/73a211457a2dd0ac1eb2ec2437c26366-160x113.webp",
+      "Color": "#c4ff1616",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media10.png",
+      "Translations": [],
+      "FileSize": 11032,
+      "Width": 489,
+      "Height": 110,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b99f0842dc396c7ad6ff680668c06332.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b99f0842dc396c7ad6ff680668c06332-160x36.webp",
+      "Color": "#628d1a1a",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media11.png",
+      "Translations": [],
+      "FileSize": 3826,
+      "Width": 125,
+      "Height": 125,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/284dcdd32ff5d24cbba4f58a8db46e54.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/284dcdd32ff5d24cbba4f58a8db46e54-160x160.webp",
+      "Color": "#73e7001f",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media12.png",
+      "Translations": [],
+      "FileSize": 21865,
+      "Width": 475,
+      "Height": 116,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/1f9bf7cde4dcf0381b145cadb0753d7a.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/1f9bf7cde4dcf0381b145cadb0753d7a-160x39.webp",
+      "Color": "#50e61633",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media13.png",
+      "Translations": [],
+      "FileSize": 3934,
+      "Width": 120,
+      "Height": 121,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/0b04f873a5d78c0ccd8cf9f082c1e946.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/0b04f873a5d78c0ccd8cf9f082c1e946-159x160.webp",
+      "Color": "#3f1cd261",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media14.png",
+      "Translations": [],
+      "FileSize": 19894,
+      "Width": 462,
+      "Height": 108,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/183608bf2e18afbfdf5cb25fb0318c6c.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/183608bf2e18afbfdf5cb25fb0318c6c-160x37.webp",
+      "Color": "#301bcf60",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media15.png",
+      "Translations": [],
+      "FileSize": 4650,
+      "Width": 173,
+      "Height": 147,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b7fa519c2f093811a7f02551f5b49396.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b7fa519c2f093811a7f02551f5b49396-160x136.webp",
+      "Color": "#762566b1",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media16.png",
+      "Translations": [],
+      "FileSize": 15607,
+      "Width": 604,
+      "Height": 147,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/48b7375bd867fe29da29b92fba2a2e09.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/48b7375bd867fe29da29b92fba2a2e09-160x39.webp",
+      "Color": "#562462af",
+      "Premium": false
+    },
+    {
+      "Tag": "ImageAsset",
+      "Name": "1social media17.png",
+      "Translations": [],
+      "FileSize": 12115,
+      "Width": 223,
+      "Height": 223,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/3d7a3c73cc20ab9008ae98dd9769d879.png",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/3d7a3c73cc20ab9008ae98dd9769d879-160x160.webp",
+      "Color": "#bcedeb6e",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/social_media/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/social_media/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/social_media/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/social_media/page_1.json"
+}

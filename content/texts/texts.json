@@ -1,0 +1,195 @@
+{
+  "Title": "Texts",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Texts"
+    },
+    {
+      "Language": "fr",
+      "Title": "Textes"
+    },
+    {
+      "Language": "it",
+      "Title": "Testi"
+    },
+    {
+      "Language": "de",
+      "Title": "Texte"
+    },
+    {
+      "Language": "es",
+      "Title": "Textos"
+    }
+  ],
+  "Collections": [
+    {
+      "Title": "Samples",
+      "Translations": [
+        {
+          "Language": "en",
+          "Title": "Beach Please"
+        },
+        {
+          "Language": "fr"
+        },
+        {
+          "Language": "it"
+        },
+        {
+          "Language": "de"
+        },
+        {
+          "Language": "es"
+        }
+      ],
+      "Total": 10,
+      "PerPage": 50,
+      "PageCount": 1,
+      "Results": [
+        {
+          "Tag": "TextAsset",
+          "Name": "I Love inPixio.zip",
+          "Translations": [],
+          "FileSize": 6085,
+          "Width": 439,
+          "Height": 132,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/112a4b117a540fb0b802ac6f1cd16bc8.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/112a4b117a540fb0b802ac6f1cd16bc8-160x58.webp",
+          "Color": "#2d8e171c",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Inverted.zip",
+          "Translations": [],
+          "FileSize": 5230,
+          "Width": 427,
+          "Height": 100,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/fef49fdc79170235246e48c02a61f38b.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/fef49fdc79170235246e48c02a61f38b-160x64.webp",
+          "Color": "#5dc80000",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Outline.zip",
+          "Translations": [],
+          "FileSize": 5651,
+          "Width": 427,
+          "Height": 104,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/dfae5368b0162cca8113b11f7792cdf9.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/dfae5368b0162cca8113b11f7792cdf9-160x54.webp",
+          "Color": "#11ff7800",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Shadow.zip",
+          "Translations": [],
+          "FileSize": 6214,
+          "Width": 427,
+          "Height": 104,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/3726e459296fd369f72e409ba0e1403e.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/3726e459296fd369f72e409ba0e1403e-160x64.webp",
+          "Color": "#27000000",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Cow.zip",
+          "Translations": [],
+          "FileSize": 6258,
+          "Width": 427,
+          "Height": 223,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/30816a4f4f9de78c9808bf32c9338dec.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/30816a4f4f9de78c9808bf32c9338dec-160x72.webp",
+          "Color": "#44000000",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Beach Please.zip",
+          "Translations": [],
+          "FileSize": 25630,
+          "Width": 427,
+          "Height": 199,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/20d80540c55be704b0489f7e8853615f.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/20d80540c55be704b0489f7e8853615f-160x108.webp",
+          "Color": "#468ab683",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Breaking Bad.zip",
+          "Translations": [],
+          "FileSize": 11693,
+          "Width": 428,
+          "Height": 247,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/cc22c06fcb337cd12bfbdaaee7e4703c.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/cc22c06fcb337cd12bfbdaaee7e4703c-160x110.webp",
+          "Color": "#4b258144",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Glow.zip",
+          "Translations": [],
+          "FileSize": 19600,
+          "Width": 427,
+          "Height": 273,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/5c22c995c3612c396f89c7f32ceac2af.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/5c22c995c3612c396f89c7f32ceac2af-160x100.webp",
+          "Color": "#5cff7ac8",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Happy 30th.zip",
+          "Translations": [],
+          "FileSize": 11162,
+          "Width": 427,
+          "Height": 372,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/70e6bd288273b7a7bf63b2cda7174210.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/70e6bd288273b7a7bf63b2cda7174210-160x138.webp",
+          "Color": "#0f000000",
+          "Premium": false
+        },
+        {
+          "Tag": "TextAsset",
+          "Name": "Huge Sale.zip",
+          "Translations": [],
+          "FileSize": 16801,
+          "Width": 427,
+          "Height": 312,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/e56d45b31ea50bfcf743b4a8f70299ea.zip",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e56d45b31ea50bfcf743b4a8f70299ea-160x120.webp",
+          "Color": "#37ffe325",
+          "Premium": false
+        }
+      ],
+      "HorizontalLayout": {
+        "$type": "StaggeredLayout",
+        "DesiredColumnWidth": 148,
+        "ColumnSpacing": 8,
+        "RowSpacing": 8,
+        "LayoutId": "Staggered Grid"
+      },
+      "VerticalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Horizontal",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 96,
+        "MinItemHeight": 96,
+        "MaximumRowsOrColumns": 3,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      },
+      "FirstPage": "https://testsqlstorage.blob.core.windows.net/texts/texts/samples/page_1.json",
+      "NextPage": "https://testsqlstorage.blob.core.windows.net/texts/texts/samples/page_1.json",
+      "LastPage": "https://testsqlstorage.blob.core.windows.net/texts/texts/samples/page_1.json"
+    }
+  ]
+}

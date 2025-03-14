@@ -1,0 +1,166 @@
+{
+  "Title": "Lines",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Lines"
+    },
+    {
+      "Language": "fr",
+      "Title": "Lignes"
+    },
+    {
+      "Language": "it",
+      "Title": "Linee"
+    },
+    {
+      "Language": "de",
+      "Title": "Linien"
+    },
+    {
+      "Language": "es",
+      "Title": "L\u00EDneas"
+    }
+  ],
+  "Total": 10,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines01.svg",
+      "Translations": [],
+      "FileSize": 6842,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/477e3402bfb714758c39aca235346ce6.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/477e3402bfb714758c39aca235346ce6-160x42.webp",
+      "Color": "#23071642",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines02.svg",
+      "Translations": [],
+      "FileSize": 942,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b1e0395b04fe2078f4aa6e4f6252896f.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b1e0395b04fe2078f4aa6e4f6252896f-160x42.webp",
+      "Color": "#12000e39",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines03.svg",
+      "Translations": [],
+      "FileSize": 1898,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/6d1fdd09317b5b6376e3886b31c21ba7.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/6d1fdd09317b5b6376e3886b31c21ba7-160x42.webp",
+      "Color": "#0e001237",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines04.svg",
+      "Translations": [],
+      "FileSize": 602,
+      "Width": 1000,
+      "Height": 259,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/bde6127427f838a8046c10606f63238d.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/bde6127427f838a8046c10606f63238d-160x41.webp",
+      "Color": "#1a001445",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines05.svg",
+      "Translations": [],
+      "FileSize": 667,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/0f33c71cf25a97ccef0ec8be84db5793.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/0f33c71cf25a97ccef0ec8be84db5793-160x42.webp",
+      "Color": "#0f001144",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines06.svg",
+      "Translations": [],
+      "FileSize": 5040,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/580d9d75ccf0cfe93c5ca9f5002157de.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/580d9d75ccf0cfe93c5ca9f5002157de-160x42.webp",
+      "Color": "#07000024",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines07.svg",
+      "Translations": [],
+      "FileSize": 4590,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/2793cdcc6bcdcef5af1452e6e53007c7.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/2793cdcc6bcdcef5af1452e6e53007c7-160x42.webp",
+      "Color": "#04000000",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines08.svg",
+      "Translations": [],
+      "FileSize": 736,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f890b880800752437d1f9235a8761552.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f890b880800752437d1f9235a8761552-160x42.webp",
+      "Color": "#0d00143b",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines09.svg",
+      "Translations": [],
+      "FileSize": 2922,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f2cd9911c88562816410eeadd18c9ace.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f2cd9911c88562816410eeadd18c9ace-160x42.webp",
+      "Color": "#0b00002e",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "lines10.svg",
+      "Translations": [],
+      "FileSize": 2382,
+      "Width": 1000,
+      "Height": 260,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/895496f5de061a8c170631d559cdd1bb.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/895496f5de061a8c170631d559cdd1bb-160x42.webp",
+      "Color": "#13000d36",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/lines/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/lines/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/lines/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/lines/page_1.json"
+}

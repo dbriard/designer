@@ -1,0 +1,1028 @@
+{
+  "Title": "Elements",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Elements"
+    },
+    {
+      "Language": "fr",
+      "Title": "\u00C9l\u00E9ments"
+    },
+    {
+      "Language": "it",
+      "Title": "Elementi"
+    },
+    {
+      "Language": "de",
+      "Title": "Elemente"
+    },
+    {
+      "Language": "es",
+      "Title": "Elementos"
+    }
+  ],
+  "Collections": [
+    {
+      "Title": "Car Logo",
+      "Translations": [
+        {
+          "Language": "en",
+          "Title": "Car Logo"
+        },
+        {
+          "Language": "fr",
+          "Title": "Logo de voiture"
+        },
+        {
+          "Language": "it",
+          "Title": "Logo dell\u0027auto"
+        },
+        {
+          "Language": "de",
+          "Title": "Auto-Logo"
+        },
+        {
+          "Language": "es",
+          "Title": "Logotipo del coche"
+        }
+      ],
+      "Total": 49,
+      "PerPage": 50,
+      "PageCount": 1,
+      "Results": [
+        {
+          "Tag": "SvgAsset",
+          "Name": "_alfa-romeo-logo.svg",
+          "Translations": [],
+          "FileSize": 198300,
+          "Width": 1000,
+          "Height": 1000,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/8d2764d9363ea9b2bd91026865fc464f.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8d2764d9363ea9b2bd91026865fc464f-160x160.webp",
+          "Color": "#a85b646d",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Aston Martin New 2022.svg",
+          "Translations": [],
+          "FileSize": 7189,
+          "Width": 1000,
+          "Height": 228,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/07c08f2fa3a37e0ee48fa8027a8c645b.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/07c08f2fa3a37e0ee48fa8027a8c645b-160x37.webp",
+          "Color": "#34000000",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_audi-14.svg",
+          "Translations": [],
+          "FileSize": 2612,
+          "Width": 1000,
+          "Height": 350,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/b4c11447326c586f9cdf93212a6dc704.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b4c11447326c586f9cdf93212a6dc704-160x55.webp",
+          "Color": "#52000000",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_bentley.svg",
+          "Translations": [],
+          "FileSize": 13962,
+          "Width": 1000,
+          "Height": 313,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/2e3995472352a46da76cd14b6d1b3256.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/2e3995472352a46da76cd14b6d1b3256-160x50.webp",
+          "Color": "#7b878787",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Bugatti_logo.svg",
+          "Translations": [],
+          "FileSize": 19917,
+          "Width": 1000,
+          "Height": 492,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/00c43eaab30f3b4ffa6e77dc2ffccc21.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/00c43eaab30f3b4ffa6e77dc2ffccc21-160x79.webp",
+          "Color": "#b1cb616b",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Cadillac.svg",
+          "Translations": [],
+          "FileSize": 6621,
+          "Width": 1000,
+          "Height": 409,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/581c37b42e9228bb52a16a24ce207468.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/581c37b42e9228bb52a16a24ce207468-160x65.webp",
+          "Color": "#51686868",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_chevrolet-1.svg",
+          "Translations": [],
+          "FileSize": 2276,
+          "Width": 1000,
+          "Height": 366,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/39c9a6d9baa24064073b6ae1771ab214.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/39c9a6d9baa24064073b6ae1771ab214-160x59.webp",
+          "Color": "#44000000",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Chrysler Black.svg",
+          "Translations": [],
+          "FileSize": 6609,
+          "Width": 1000,
+          "Height": 159,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/575efa31c8241e029c95fb4d9f74efd1.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/575efa31c8241e029c95fb4d9f74efd1-160x26.webp",
+          "Color": "#46000000",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_citroen-new-2022-seeklogo.svg",
+          "Translations": [],
+          "FileSize": 6261,
+          "Width": 1000,
+          "Height": 980,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/bad225447e7acf25fe74646e65b45bb7.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/bad225447e7acf25fe74646e65b45bb7-160x157.webp",
+          "Color": "#2c0c0606",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Cupra.svg",
+          "Translations": [],
+          "FileSize": 3159,
+          "Width": 1000,
+          "Height": 653,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/5f843ffc73b759deee1232a2fdee2ba7.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/5f843ffc73b759deee1232a2fdee2ba7-160x104.webp",
+          "Color": "#25000000",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Dodge_logo.svg",
+          "Translations": [],
+          "FileSize": 82550,
+          "Width": 1000,
+          "Height": 140,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/1336cb2be88db066fee715014a64039a.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/1336cb2be88db066fee715014a64039a-160x22.webp",
+          "Color": "#54ad8c8c",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_DS_Automobiles_Logo.svg",
+          "Translations": [],
+          "FileSize": 21594,
+          "Width": 1000,
+          "Height": 790,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/8ca79b454f4ad42b370185b932fc1744.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8ca79b454f4ad42b370185b932fc1744-160x126.webp",
+          "Color": "#209f9f9f",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Ferrari-Logo.svg",
+          "Translations": [],
+          "FileSize": 37042,
+          "Width": 624,
+          "Height": 1000,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/cad2ea458e6d004d7c3d5303299d436a.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/cad2ea458e6d004d7c3d5303299d436a-100x160.webp",
+          "Color": "#c2b0a40b",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Fiat_(logo).svg",
+          "Translations": [],
+          "FileSize": 70444,
+          "Width": 1000,
+          "Height": 1000,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/b9742b228180a77d25ca0803c15dd532.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b9742b228180a77d25ca0803c15dd532-160x160.webp",
+          "Color": "#aa844d5a",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Ford_Motor_Company_Logo.svg",
+          "Translations": [],
+          "FileSize": 31290,
+          "Width": 1000,
+          "Height": 376,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/b03fe6218692809c37104560441c4b97.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b03fe6218692809c37104560441c4b97-160x60.webp",
+          "Color": "#ba5c7ea6",
+          "Premium": false
+        },
+        {
+          "Tag": "SvgAsset",
+          "Name": "_Genesis_division_emblem.svg",
+          "Translations": [],
+          "FileSize": 6412,
+          "Width": 1000,
+          "Height": 351,
+          "Url": "https://testsqlstorage.blob.core.windows.net/assets/cf20214a974f801a3993f9f04eafd51e.svg",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/cf20214a974f801a3993f9f04eafd51e-160x56.webp",
+          "Color": "#2d000000",
+          "Premium": false
+        }
+      ],
+      "HorizontalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Vertical",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 96,
+        "MinItemHeight": 96,
+        "MaximumRowsOrColumns": 1,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      },
+      "VerticalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Horizontal",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 96,
+        "MinItemHeight": 96,
+        "MaximumRowsOrColumns": 3,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      },
+      "FirstPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/car_logo/page_1.json",
+      "NextPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/car_logo/page_1.json",
+      "LastPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/car_logo/page_1.json"
+    },
+    {
+      "Title": "Graphics",
+      "Translations": [
+        {
+          "Language": "en",
+          "Title": "Graphics"
+        },
+        {
+          "Language": "fr",
+          "Title": "Graphiques"
+        },
+        {
+          "Language": "it",
+          "Title": "Grafica"
+        },
+        {
+          "Language": "de",
+          "Title": "Grafiken"
+        },
+        {
+          "Language": "es",
+          "Title": "Gr\u00E1ficos"
+        }
+      ],
+      "Total": 4,
+      "PerPage": 4,
+      "PageCount": 1,
+      "Results": [
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Emojis",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "2024/07/01 16:24:15"
+            },
+            {
+              "Language": "fr"
+            },
+            {
+              "Language": "it"
+            },
+            {
+              "Language": "de"
+            },
+            {
+              "Language": "es"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/emojis/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/emojis/thumb-160x160.webp",
+          "Color": "#91e19762",
+          "Data": "200",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Ratings",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "2024/07/01 16:22:05"
+            },
+            {
+              "Language": "fr"
+            },
+            {
+              "Language": "it"
+            },
+            {
+              "Language": "de"
+            },
+            {
+              "Language": "es"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/ratings/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/ratings/thumb-160x160.webp",
+          "Color": "#53f3d19a",
+          "Data": "45",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Bubbles",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "2024/07/01 16:23:19"
+            },
+            {
+              "Language": "fr"
+            },
+            {
+              "Language": "it"
+            },
+            {
+              "Language": "de"
+            },
+            {
+              "Language": "es"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/bubbles/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/bubbles/thumb-160x160.webp",
+          "Color": "#3fbe4d69",
+          "Data": "12",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Reactions",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Reactions"
+            },
+            {
+              "Language": "fr",
+              "Title": "R\u00E9actions"
+            },
+            {
+              "Language": "it",
+              "Title": "Reazioni"
+            },
+            {
+              "Language": "de",
+              "Title": "Reaktionen"
+            },
+            {
+              "Language": "es",
+              "Title": "Reacciones"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/reactions/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/graphics/reactions/thumb-160x160.webp",
+          "Color": "#69f35a5c",
+          "Data": "37",
+          "Premium": false
+        }
+      ],
+      "HorizontalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Horizontal",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 96,
+        "MinItemHeight": 114,
+        "MaximumRowsOrColumns": 3,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      }
+    },
+    {
+      "Title": "Logos",
+      "Translations": [
+        {
+          "Language": "en",
+          "Title": "Logos"
+        },
+        {
+          "Language": "fr",
+          "Title": "Logos"
+        },
+        {
+          "Language": "it",
+          "Title": "Logos"
+        },
+        {
+          "Language": "de",
+          "Title": "Logos"
+        },
+        {
+          "Language": "es",
+          "Title": "Logos"
+        }
+      ],
+      "Total": 2,
+      "PerPage": 2,
+      "PageCount": 1,
+      "Results": [
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Social media",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Social media"
+            },
+            {
+              "Language": "fr",
+              "Title": "M\u00E9dias sociaux"
+            },
+            {
+              "Language": "it",
+              "Title": "Social media"
+            },
+            {
+              "Language": "de",
+              "Title": "Soziale Medien"
+            },
+            {
+              "Language": "es",
+              "Title": "Redes sociales"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/social_media/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/social_media/thumb-160x40.webp",
+          "Color": "#2f7762ae",
+          "Data": "17",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Marketplaces",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Marketplaces"
+            },
+            {
+              "Language": "fr",
+              "Title": "March\u00E9s"
+            },
+            {
+              "Language": "it",
+              "Title": "Mercati"
+            },
+            {
+              "Language": "de",
+              "Title": "Marktpl\u00E4tze"
+            },
+            {
+              "Language": "es",
+              "Title": "Mercados"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/marketplaces/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/logos/marketplaces/thumb-160x40.webp",
+          "Color": "#3b973811",
+          "Data": "40",
+          "Premium": false
+        }
+      ],
+      "HorizontalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Horizontal",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 148,
+        "MinItemHeight": 55,
+        "MaximumRowsOrColumns": 2,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      }
+    },
+    {
+      "Title": "Shapes",
+      "Translations": [
+        {
+          "Language": "en",
+          "Title": "Shapes"
+        },
+        {
+          "Language": "fr",
+          "Title": "Formes"
+        },
+        {
+          "Language": "it",
+          "Title": "Forme"
+        },
+        {
+          "Language": "de",
+          "Title": "Formen"
+        },
+        {
+          "Language": "es",
+          "Title": "Formas"
+        }
+      ],
+      "Total": 4,
+      "PerPage": 4,
+      "PageCount": 1,
+      "Results": [
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Shapes Filled",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Shapes Filled"
+            },
+            {
+              "Language": "fr",
+              "Title": "Formes Remplies"
+            },
+            {
+              "Language": "it",
+              "Title": "Forme Riempite"
+            },
+            {
+              "Language": "de",
+              "Title": "Gef\u00FCllte Formen"
+            },
+            {
+              "Language": "es",
+              "Title": "Formas Rellenas"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/shapes_filled/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/shapes_filled/thumb-160x160.webp",
+          "Color": "#8eff8aa0",
+          "Data": "24",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Arrows",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Arrows"
+            },
+            {
+              "Language": "fr",
+              "Title": "Fl\u00E8ches"
+            },
+            {
+              "Language": "it",
+              "Title": "Frecce"
+            },
+            {
+              "Language": "de",
+              "Title": "Pfeile"
+            },
+            {
+              "Language": "es",
+              "Title": "Flechas"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/arrows/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/arrows/thumb-160x160.webp",
+          "Color": "#2b2f2f2f",
+          "Data": "27",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Shapes",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Shapes"
+            },
+            {
+              "Language": "fr",
+              "Title": "Formes"
+            },
+            {
+              "Language": "it",
+              "Title": "Forme"
+            },
+            {
+              "Language": "de",
+              "Title": "Formen"
+            },
+            {
+              "Language": "es",
+              "Title": "Formas"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/shapes/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/shapes/thumb-160x160.webp",
+          "Color": "#035555aa",
+          "Data": "24",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Lines",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Lines"
+            },
+            {
+              "Language": "fr",
+              "Title": "Lignes"
+            },
+            {
+              "Language": "it",
+              "Title": "Linee"
+            },
+            {
+              "Language": "de",
+              "Title": "Linien"
+            },
+            {
+              "Language": "es",
+              "Title": "L\u00EDneas"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/lines/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/shapes/lines/thumb-160x160.webp",
+          "Color": "#0c00002b",
+          "Data": "10",
+          "Premium": false
+        }
+      ],
+      "HorizontalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Horizontal",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 96,
+        "MinItemHeight": 114,
+        "MaximumRowsOrColumns": 3,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      }
+    },
+    {
+      "Title": "Sales",
+      "Translations": [
+        {
+          "Language": "en",
+          "Title": "Sales"
+        },
+        {
+          "Language": "fr"
+        },
+        {
+          "Language": "it"
+        },
+        {
+          "Language": "de"
+        },
+        {
+          "Language": "es"
+        }
+      ],
+      "Total": 9,
+      "PerPage": 9,
+      "PageCount": 1,
+      "Results": [
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Add to Card",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Add to Card"
+            },
+            {
+              "Language": "fr",
+              "Title": "Ajouter au panier"
+            },
+            {
+              "Language": "it",
+              "Title": "Aggiungi al carrello"
+            },
+            {
+              "Language": "de",
+              "Title": "Zum Warenkorb hinzuf\u00FCgen"
+            },
+            {
+              "Language": "es",
+              "Title": "A\u00F1adir al carrito"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/add_to_card/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/add_to_card/thumb-160x160.webp",
+          "Color": "#575e6c9e",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Buy now",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Buy now"
+            },
+            {
+              "Language": "fr"
+            },
+            {
+              "Language": "it"
+            },
+            {
+              "Language": "de"
+            },
+            {
+              "Language": "es"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/buy_now/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/buy_now/thumb-160x160.webp",
+          "Color": "#626b828a",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Coming soon",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Coming soon"
+            },
+            {
+              "Language": "fr",
+              "Title": "Bient\u00F4t disponible"
+            },
+            {
+              "Language": "it",
+              "Title": "Prossimamente"
+            },
+            {
+              "Language": "de",
+              "Title": "Demn\u00E4chst"
+            },
+            {
+              "Language": "es",
+              "Title": "Pr\u00F3ximamente"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/coming_soon/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/coming_soon/thumb-160x160.webp",
+          "Color": "#69b68f8a",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "For sale",
+          "Translations": [],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/for_sale/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/for_sale/thumb-160x160.webp",
+          "Color": "#65819a7c",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Sale",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Sale"
+            },
+            {
+              "Language": "fr",
+              "Title": "Solde"
+            },
+            {
+              "Language": "it",
+              "Title": "Saldi"
+            },
+            {
+              "Language": "de",
+              "Title": "Schlussverkauf"
+            },
+            {
+              "Language": "es",
+              "Title": "Rebaja"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/sale/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/sale/thumb-160x160.webp",
+          "Color": "#699e6b66",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Free",
+          "Translations": [],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/free/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/free/thumb-160x160.webp",
+          "Color": "#68609878",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Free delivery",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Free delivery"
+            },
+            {
+              "Language": "fr",
+              "Title": "Livraison gratuite"
+            },
+            {
+              "Language": "it",
+              "Title": "Consegna gratuita"
+            },
+            {
+              "Language": "de",
+              "Title": "Kostenlose Lieferung"
+            },
+            {
+              "Language": "es",
+              "Title": "Entrega gratuita"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/free_delivery/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/free_delivery/thumb-160x160.webp",
+          "Color": "#655b6fb1",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Limited time",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Limited time"
+            },
+            {
+              "Language": "fr",
+              "Title": "Temps limit\u00E9"
+            },
+            {
+              "Language": "it",
+              "Title": "Tempo limitato"
+            },
+            {
+              "Language": "de",
+              "Title": "Begrenzte Zeit"
+            },
+            {
+              "Language": "es",
+              "Title": "Tiempo limitado"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/limited_time/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/limited_time/thumb-160x160.webp",
+          "Color": "#6a677d89",
+          "Data": "8",
+          "Premium": false
+        },
+        {
+          "Tag": "CollectionGroup",
+          "Name": "Mega sale",
+          "Translations": [
+            {
+              "Language": "en",
+              "Title": "Mega sale"
+            },
+            {
+              "Language": "fr",
+              "Title": "M\u00E9ga vente"
+            },
+            {
+              "Language": "it",
+              "Title": "Mega saldo"
+            },
+            {
+              "Language": "de",
+              "Title": "Mega-Verkauf"
+            },
+            {
+              "Language": "es",
+              "Title": "Mega venta"
+            }
+          ],
+          "FileSize": 0,
+          "Width": 0,
+          "Height": 0,
+          "Url": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/mega_sale/page_1.json",
+          "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/mega_sale/thumb-160x160.webp",
+          "Color": "#67e66666",
+          "Data": "8",
+          "Premium": false
+        }
+      ],
+      "HorizontalLayout": {
+        "$type": "UniformGridLayout",
+        "Orientation": "Horizontal",
+        "MinColumnSpacing": 8,
+        "MinRowSpacing": 8,
+        "MinItemWidth": 96,
+        "MinItemHeight": 114,
+        "MaximumRowsOrColumns": 3,
+        "ItemsStretch": "None",
+        "ItemsJustification": "Start",
+        "LayoutId": "Uniform Grid"
+      }
+    }
+  ]
+}

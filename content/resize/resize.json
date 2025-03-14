@@ -1,0 +1,942 @@
+[
+  {
+    "Name": "Social Media",
+    "Icon": "Groups|PeopleCommunity",
+    "Translations":[
+      {
+        "Language": "fr",
+        "Name": "Réseaux sociaux"
+      }
+    ],
+    "Items": [
+      {
+        "Name": "Facebook",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/facebook.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Facebook Post",
+            "Width": 1200,
+            "Height": 630,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "Facebook Ad",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Publicité"
+              }
+            ]
+          },
+          {
+            "Name": "Facebook Cover",
+            "Width": 851,
+            "Height": 315,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Photo de couverture"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Instagram",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/instagram.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Instagram Post",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "Instagram Story",
+            "Width": 1080,
+            "Height": 1920,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Story"
+              }
+            ]
+          },
+          {
+            "Name": "Instagram Reel",
+            "Width": 1080,
+            "Height": 1920,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Réel"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "LinkedIn",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/linkedin.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "LinkedIn Post",
+            "Width": 1200,
+            "Height": 627,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "LinkedIn Cover",
+            "Width": 1584,
+            "Height": 369,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Photo de couverture"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pinterest",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/pinterest.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Pinterest Ideal Pin",
+            "Width": 735,
+            "Height": 1102,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "Pinterest Classic Pin",
+            "Width": 1000,
+            "Height": 1500,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Photo de couverture"
+              }
+            ]
+          },
+          {
+            "Name": "Pinterest Square Pin",
+            "Width": 1000,
+            "Height": 1000,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "Pinterest Long Pin",
+            "Width": 1000,
+            "Height": 2100,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Photo de couverture"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Snapchat",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/snapchat.webp",
+        "Translations": [
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats": [
+          {
+            "Name": "Snapchat Ad",
+            "Width": 1080,
+            "Height": 1920,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Publicité"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "TikTok",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/tiktok.webp",
+        "Translations": [
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats": [
+          {
+            "Name": "TikTok Post",
+            "Width": 1080,
+            "Height": 1920,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "TikTok Profile Picture",
+            "Width": 200,
+            "Height": 200,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Photo de profil"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "X (Twitter)",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/twitter.webp",
+        "Translations": [
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats": [
+          {
+            "Name": "X (Twitter) Post",
+            "Width": 1600,
+            "Height": 900,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Publication"
+              }
+            ]
+          },
+          {
+            "Name": "X (Twitter) Cover",
+            "Width": 1500,
+            "Height": 500,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Photo de couverture"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Youtube",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/youtube.webp",
+        "Translations": [
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats": [
+          {
+            "Name": "YouTube Banner",
+            "Width": 2560,
+            "Height": 1440,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Bannière"
+              }
+            ]
+          },
+          {
+            "Name": "YouTube Thumbnail",
+            "Width": 1280,
+            "Height": 720,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Miniature"
+              }
+            ]
+          },
+          {
+            "Name": "YouTube Intro",
+            "Width": 1920,
+            "Height": 1080,
+            "Translations": [
+              {
+                "Language": "fr",
+                "Name": "Intro"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Marketplaces",
+    "Icon": "Storefront|BuildingShop",
+    "Translations":[
+      {
+        "Language": "fr",
+        "Name": "Places de marché"
+      }
+    ],
+    "Items": [
+      {
+        "Name": "AliExpress",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/aliexpress.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "AliExpress Product Image",
+            "Width": 800,
+            "Height": 800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Amazon",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/amazon.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Amazon Product Image",
+            "Width": 2000,
+            "Height": 2000,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Depop",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/depop.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Depop Product Image",
+            "Width": 1280,
+            "Height": 1280,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Dhgate",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/dhgate.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Dhgate Product Image",
+            "Width": 800,
+            "Height": 800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ebay",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/ebay.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Ebay Product Image",
+            "Width": 1600,
+            "Height": 1600,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Etsy",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/etsy.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Etsy Product",
+            "Width": 2700,
+            "Height": 2025,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          },
+          {
+            "Name": "Etsy Product",
+            "Width": 2000,
+            "Height": 2000,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          },
+          {
+            "Name": "Etsy Store Icon",
+            "Width": 500,
+            "Height": 500,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Icône de la boutique"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Facebook Marketplace",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/facebook.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Facebook Marketplace Image",
+            "Width": 1200,
+            "Height": 1200,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Kijiji",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/kijiji.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Kijiji Product Image",
+            "Width": 800,
+            "Height": 800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Lazada",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/lazada.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Lazara Product Image",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Leboncoin",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/leboncoin.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Leboncoin Product Image",
+            "Width": 1200,
+            "Height": 1200,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Magento",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/magento.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Magento Base Image",
+            "Width": 1100,
+            "Height": 1100,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mercado Libre",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/mercadolibre.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Mercado Libre Product Image",
+            "Width": 1200,
+            "Height": 1200,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mercari",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/mercari.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Mercari Product Image",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Prestashop",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/prestashop.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Prestashop Product Image",
+            "Width": 800,
+            "Height": 800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "PoshMark",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/poshmark.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "PoshMark Product Image",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shopee",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/shopee.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Shopee Product Image",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shopify",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/shopify.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Shopify Square",
+            "Width": 2048,
+            "Height": 2048,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Carré"
+              }
+            ]
+          },
+          {
+            "Name": "Shopify Landscape",
+            "Width": 2000,
+            "Height": 1800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Paysage"
+              }
+            ]
+          },
+          {
+            "Name": "Shopify Portrait",
+            "Width": 1600,
+            "Height": 2000,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Portrait"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Vinted",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/vinted.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Vinted Product Image",
+            "Width": 900,
+            "Height": 1200,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Wix Store",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/wix.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Wix Product Image",
+            "Width": 800,
+            "Height": 800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "WooCommerce",
+        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/woocommerce.webp",
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "WooCommerce Product Image",
+            "Width": 800,
+            "Height": 800,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "Image du produit"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Paper Sizes",
+    "Icon": "Print",
+    "Translations":[
+      {
+        "Language": "fr",
+        "Name": "Tailles de papier"
+      }
+    ],
+    "Items": [
+      {
+        "Name": "DIN",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": null
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "A4 Portrait",
+            "Width": 210,
+            "Height": 297,
+            "Units": "Millimeters",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "A4 portrait"
+              }
+            ]
+          },
+          {
+            "Name": "A4 Landscape",
+            "Width": 297,
+            "Height": 210,
+            "Units": "Millimeters",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "A4 paysage"
+              }
+            ]
+          },
+          {
+            "Name": "A5 Portrait",
+            "Width": 148.5,
+            "Height": 210,
+            "Units": "Millimeters",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "A5 portrait"
+              }
+            ]
+          },
+          {
+            "Name": "A5 Landscape",
+            "Width": 210,
+            "Height": 148.5,
+            "Units": "Millimeters",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "A5 paysage"
+              }
+            ]
+          },
+          {
+            "Name": "US Letter Portrait",
+            "Width": 8.5,
+            "Height": 11,
+            "Units": "Inches",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "US letter portrait"
+              }
+            ]
+          },
+          {
+            "Name": "US Letter Landscape",
+            "Width": 11,
+            "Height": 8.5,
+            "Units": "Inches",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": "US letter paysage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

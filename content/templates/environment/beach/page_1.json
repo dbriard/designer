@@ -1,0 +1,228 @@
+{
+  "Title": "Beach",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Beach"
+    },
+    {
+      "Language": "fr",
+      "Title": "Plage"
+    },
+    {
+      "Language": "it",
+      "Title": "Spiaggia"
+    },
+    {
+      "Language": "de",
+      "Title": "Strand"
+    },
+    {
+      "Language": "es",
+      "Title": "Playa"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-01.idtpl",
+      "Translations": [],
+      "FileSize": 743023,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/364e114f636562393b439db74e91599b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/364e114f636562393b439db74e91599b-160x160.jpg",
+      "Color": "#ff9a9c90",
+      "BlurHash": "KRNKL:~9Io1,$zoc9Ht7xa",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-02.idtpl",
+      "Translations": [],
+      "FileSize": 822816,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/363e8979d4968e8aeae8c6f6d450dbc5.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/363e8979d4968e8aeae8c6f6d450dbc5-160x160.jpg",
+      "Color": "#ffc8b195",
+      "BlurHash": "KSQ9fkR.Ri.TIVRPD\u002BWAtR",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-03.idtpl",
+      "Translations": [],
+      "FileSize": 724506,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7148d5af08e136e787ea5c320c9d25ab.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7148d5af08e136e787ea5c320c9d25ab-160x160.jpg",
+      "Color": "#ff9e947f",
+      "BlurHash": "KGNd5UM]0J?v^*s:R6?I-=",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-04.idtpl",
+      "Translations": [],
+      "FileSize": 531827,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/5e0c1ed9a0e1f3b54ffb2349cfb7d408.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/5e0c1ed9a0e1f3b54ffb2349cfb7d408-160x160.jpg",
+      "Color": "#ffbea889",
+      "BlurHash": "KHPi*F0MRiL3S%jr0NtMs:",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-05.idtpl",
+      "Translations": [],
+      "FileSize": 933333,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e872c707591e72e10265df02f2082c25.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e872c707591e72e10265df02f2082c25-160x160.jpg",
+      "Color": "#ff979287",
+      "BlurHash": "KPM%[x_3WAAeWERi0Lxtxt",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-06.idtpl",
+      "Translations": [],
+      "FileSize": 897341,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/66cce4c08be82364ea58e81c4de9650b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/66cce4c08be82364ea58e81c4de9650b-160x160.jpg",
+      "Color": "#ff9d9980",
+      "BlurHash": "KRNdHvV;4,O@%0M_w}ni%3",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-07.idtpl",
+      "Translations": [],
+      "FileSize": 661258,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c9c795c4903c5a32b48c0f50e97b4a2b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c9c795c4903c5a32b48c0f50e97b4a2b-160x160.jpg",
+      "Color": "#ff949589",
+      "BlurHash": "KIM@ik=]0JT|^%sjR4%3-p",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-08.idtpl",
+      "Translations": [],
+      "FileSize": 605651,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/5aade68dc23853df5b0a6caa909a0f36.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/5aade68dc23853df5b0a6caa909a0f36-160x160.jpg",
+      "Color": "#ffa7b3af",
+      "BlurHash": "KdO4VV%Mof1\u002BxGs:9usns:",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-09.idtpl",
+      "Translations": [],
+      "FileSize": 874802,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c3a8878f53d381a71bb6f3fc5486c40a.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c3a8878f53d381a71bb6f3fc5486c40a-160x160.jpg",
+      "Color": "#ff8c9fa1",
+      "BlurHash": "KVMRMg}lNb6-aynNE3T0xG",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-10.idtpl",
+      "Translations": [],
+      "FileSize": 843615,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/77ff373f4fb90bc5088735e0651229a3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/77ff373f4fb90bc5088735e0651229a3-160x160.jpg",
+      "Color": "#ffbebdb5",
+      "BlurHash": "KQP%U}xuo#PqR*RkE,WAWA",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-11.idtpl",
+      "Translations": [],
+      "FileSize": 610634,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/c83926b4d19d292f8692dc68c640dcba.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/c83926b4d19d292f8692dc68c640dcba-160x160.jpg",
+      "Color": "#ffb1b9b4",
+      "BlurHash": "KTO;6\u002BtmV?CTXAaJIobcn#",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-12.idtpl",
+      "Translations": [],
+      "FileSize": 1071944,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8c4b9e401ccce337e7fd862b31cf70ae.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8c4b9e401ccce337e7fd862b31cf70ae-160x160.jpg",
+      "Color": "#ff97967d",
+      "BlurHash": "KMN145E00JS*S$RPnUNK%N",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-13.idtpl",
+      "Translations": [],
+      "FileSize": 976218,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/26a0840873e3667b10a42e65c0d24d04.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/26a0840873e3667b10a42e65c0d24d04-160x160.jpg",
+      "Color": "#ff918d7a",
+      "BlurHash": "KPMtX2~XI,GaogM^IoM_rW",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Beach-14.idtpl",
+      "Translations": [],
+      "FileSize": 581329,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/42977c1f302622b7b27f34bf43c633ed.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/42977c1f302622b7b27f34bf43c633ed-160x160.jpg",
+      "Color": "#ff868e8e",
+      "BlurHash": "KbL#Of9ZS5u6S3RjIqo}oJ",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/beach/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/beach/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/beach/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/beach/page_1.json"
+}

@@ -1,0 +1,215 @@
+{
+  "Title": "Cyber Monday",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Cyber Monday"
+    },
+    {
+      "Language": "fr",
+      "Title": "Cyber Monday"
+    },
+    {
+      "Language": "it",
+      "Title": "Cyber Monday"
+    },
+    {
+      "Language": "de",
+      "Title": "Cyber Monday"
+    },
+    {
+      "Language": "es",
+      "Title": "Cyber Monday"
+    }
+  ],
+  "Total": 13,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-1.idtpl",
+      "Translations": [],
+      "FileSize": 1267518,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a50cbd958f6a3f06ae70eebe93895003.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a50cbd958f6a3f06ae70eebe93895003-160x160.jpg",
+      "Color": "#ff3f3950",
+      "BlurHash": "KYD]PpoL4UEJWUoz0Jjb.7",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-2.idtpl",
+      "Translations": [],
+      "FileSize": 1292670,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/5569740b245b1fd50418c19d06137f4b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/5569740b245b1fd50418c19d06137f4b-160x160.jpg",
+      "Color": "#ff4c4270",
+      "BlurHash": "KaFh[Eni8}TJjGt80Kjc.8",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-3.idtpl",
+      "Translations": [],
+      "FileSize": 1303882,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/57c27b4c03642433b0d9d429c38b5d78.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/57c27b4c03642433b0d9d429c38b5d78-160x160.jpg",
+      "Color": "#ff666176",
+      "BlurHash": "KbHxpms\u002B4mE*WXa$0Lf6-:",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-4.idtpl",
+      "Translations": [],
+      "FileSize": 1110971,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/9ec1765fd70f9b0e7077ced52680caea.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/9ec1765fd70f9b0e7077ced52680caea-160x160.jpg",
+      "Color": "#ff564b68",
+      "BlurHash": "KdGRxvbu4oI-njRi4mR*%e",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-5.idtpl",
+      "Translations": [],
+      "FileSize": 4309189,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/553ea33e387cde8ffad282a432ff02ff.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/553ea33e387cde8ffad282a432ff02ff-160x160.jpg",
+      "Color": "#ff605f7e",
+      "BlurHash": "KmH_\u002BKNt4TNFsAR%NHW;xt",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-6.idtpl",
+      "Translations": [],
+      "FileSize": 1061880,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/49894f922526459395cc3305fb5277e1.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/49894f922526459395cc3305fb5277e1-160x160.jpg",
+      "Color": "#ff76537a",
+      "BlurHash": "KaKJ$UjY8w5hWWNFE3a#tP",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-7.idtpl",
+      "Translations": [],
+      "FileSize": 1026978,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/54b2ac303a193de8e2a84ff9abfb3c14.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/54b2ac303a193de8e2a84ff9abfb3c14-160x160.jpg",
+      "Color": "#ff7b547b",
+      "BlurHash": "KVKv,#R%8x5NWXNED-WBt\u002B",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-9.idtpl",
+      "Translations": [],
+      "FileSize": 975206,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/4a5ddc364ee7a42959ba5fe08a01fe8b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/4a5ddc364ee7a42959ba5fe08a01fe8b-160x160.jpg",
+      "Color": "#ff525375",
+      "BlurHash": "KOG\u002BUoni0153X8RN4nad-p",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-10.idtpl",
+      "Translations": [],
+      "FileSize": 1047734,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/5390e515712cc43ebc574cc6d445f4f9.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/5390e515712cc43ebc574cc6d445f4f9-160x160.jpg",
+      "Color": "#ff5a5678",
+      "BlurHash": "KUHLS*t69FEaV[M{4VoM-;",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-11.idtpl",
+      "Translations": [],
+      "FileSize": 1073530,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ef0d74dbdeab1c7623770ca08f6c9fb7.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ef0d74dbdeab1c7623770ca08f6c9fb7-160x160.jpg",
+      "Color": "#ff926b79",
+      "BlurHash": "KSMGG0XVHro|j=9Z0NoLtk",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-12.idtpl",
+      "Translations": [],
+      "FileSize": 1229803,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7334072dbcd0062c4e9ef762129f4b68.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7334072dbcd0062c4e9ef762129f4b68-160x160.jpg",
+      "Color": "#ff7d4a74",
+      "BlurHash": "KTK9vae.4VEZjvI:4UWC.7",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-13.idtpl",
+      "Translations": [],
+      "FileSize": 2739450,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e2ff939ba3bde244e3cf583b1e51c759.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e2ff939ba3bde244e3cf583b1e51c759-160x160.jpg",
+      "Color": "#ff4f3d5f",
+      "BlurHash": "KSGb6{tR4TPBtRIS9akB-:",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Cyber-monday-14.idtpl",
+      "Translations": [],
+      "FileSize": 1193052,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/420854e25f3e47d65dd8ad1e6af6f6c3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/420854e25f3e47d65dd8ad1e6af6f6c3-160x160.jpg",
+      "Color": "#ff7f5284",
+      "BlurHash": "KWKJf.nz4XEcaxI-4TWB-:",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 144,
+    "MinItemHeight": 144,
+    "MaximumRowsOrColumns": 2,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/cyber_monday/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/cyber_monday/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/cyber_monday/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/cyber_monday/page_1.json"
+}

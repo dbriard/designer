@@ -1,0 +1,56 @@
+{
+  "Title": "Comptoir",
+  "Layout": {
+    "TypeDiscriminator": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 1,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start"
+  },
+  "Total": 4,
+  "PerPage": 30,
+  "Results": [
+    {
+      "Id": "422",
+      "Url": "https://stage-saas1.inpixio.com/content/elements/comptoir/joshua-bartell-6vvibtvl90a-unsplash.jpg",
+      "Width": 6000,
+      "Height": 4000,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/elements/comptoir/00000422-160x107.webp",
+      "BlurHash": "L6DvWVWU0ej[^*j[a}oL4:R\u002BRjjZ",
+      "Color": "#ff312d28"
+    },
+    {
+      "Id": "423",
+      "Url": "https://stage-saas1.inpixio.com/content/elements/comptoir/aaron-burden-kljrgqn3eo8-unsplash.jpg",
+      "Width": 3992,
+      "Height": 2992,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/elements/comptoir/00000423-160x120.webp",
+      "BlurHash": "L7L}jYNGVs%N_4-;Rj9Y4nD%-;-=",
+      "Color": "#ff8699b2"
+    },
+    {
+      "Id": "424",
+      "Url": "https://stage-saas1.inpixio.com/content/elements/comptoir/adam-przeniewski-d42wigiz0gc-unsplash.jpg",
+      "Width": 6000,
+      "Height": 4000,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/elements/comptoir/00000424-160x107.webp",
+      "BlurHash": "L8Ps*MRO_NofM{WVofafWWofR%ay",
+      "Color": "#ffb8b9bc"
+    },
+    {
+      "Id": "425",
+      "Url": "https://stage-saas1.inpixio.com/content/elements/comptoir/kirill-tonkikh-gtgdysl2tv0-unsplash.jpg",
+      "Width": 9000,
+      "Height": 3000,
+      "ThumbUrl": "https://stage-saas1.inpixio.com/content/elements/comptoir/00000425-160x53.webp",
+      "BlurHash": "LHPPfM009Ftl-:RjRjkC%Me.aeWV",
+      "Color": "#ffb59774"
+    }
+  ],
+  "FirstUrl": "https://stage-saas1.inpixio.com/content/elements/comptoir/page_1.json",
+  "LastUrl": "https://stage-saas1.inpixio.com/content/elements/comptoir/page_1.json"
+}

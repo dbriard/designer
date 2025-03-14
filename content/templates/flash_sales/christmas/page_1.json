@@ -1,0 +1,228 @@
+{
+  "Title": "Christmas",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Christmas"
+    },
+    {
+      "Language": "fr",
+      "Title": "No\u00EBl"
+    },
+    {
+      "Language": "it",
+      "Title": "Natale"
+    },
+    {
+      "Language": "de",
+      "Title": "Weihnachten"
+    },
+    {
+      "Language": "es",
+      "Title": "Navidad"
+    }
+  ],
+  "Total": 14,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas01.idtpl",
+      "Translations": [],
+      "FileSize": 1907668,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/b83c50efc7a7bbcc88b621996741552a.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/b83c50efc7a7bbcc88b621996741552a-160x160.jpg",
+      "Color": "#ff927867",
+      "BlurHash": "KLMZt48wDhE1nP%M01oJ-;",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas02.idtpl",
+      "Translations": [],
+      "FileSize": 1346664,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e1ff54e0e6a767e348ad6727779e0cc3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e1ff54e0e6a767e348ad6727779e0cc3-160x160.jpg",
+      "Color": "#ffcaab72",
+      "BlurHash": "KOQv2BIBH;x8xuR3-.Rjp0",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas03.idtpl",
+      "Translations": [],
+      "FileSize": 1430314,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a190447a4d5316ae2e52e46594c9e6a0.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a190447a4d5316ae2e52e46594c9e6a0-160x160.jpg",
+      "Color": "#ffb05c5c",
+      "BlurHash": "KXOw~n$gD4-;i_IAQ.jFXm",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas04.idtpl",
+      "Translations": [],
+      "FileSize": 1400861,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/74d8bbd79263135bc971a580c066e6d6.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/74d8bbd79263135bc971a580c066e6d6-160x160.jpg",
+      "Color": "#ffaa5956",
+      "BlurHash": "KMOUe?%z4T.8E1IAv3$*yX",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas05.idtpl",
+      "Translations": [],
+      "FileSize": 1452042,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e45b161c87f128386a0c6bde056f1345.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e45b161c87f128386a0c6bde056f1345-160x160.jpg",
+      "Color": "#ff618b70",
+      "BlurHash": "KPIi,Y8{0J^kRjRjOkR6^R",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas07.idtpl",
+      "Translations": [],
+      "FileSize": 1252837,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e22d1da5d486633b5f1e1651f2e9f7ed.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e22d1da5d486633b5f1e1651f2e9f7ed-160x160.jpg",
+      "Color": "#ffc9c0b6",
+      "BlurHash": "K9Ql|7~qDh#4i^9E?IWVa$",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas08.idtpl",
+      "Translations": [],
+      "FileSize": 1432707,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/dddbcf03ba13421b59f0b55843bdc5df.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/dddbcf03ba13421b59f0b55843bdc5df-160x160.jpg",
+      "Color": "#ffc1ae9b",
+      "BlurHash": "KGP~~0IA00tPxtI9?FNHtS",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas09.idtpl",
+      "Translations": [],
+      "FileSize": 1405073,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d4e4d5f38cb9caba21dfce21c0fa2a8e.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d4e4d5f38cb9caba21dfce21c0fa2a8e-160x160.jpg",
+      "Color": "#ffbcb1c5",
+      "BlurHash": "KGPZZT?ZRDrFxt9G0NtRfM",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas10.idtpl",
+      "Translations": [],
+      "FileSize": 1504823,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/9eb4d143fc28b746fe8aab2cae0a737b.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/9eb4d143fc28b746fe8aab2cae0a737b-160x160.jpg",
+      "Color": "#ffbaa3b1",
+      "BlurHash": "KMP6dgE3H@8xIpH@0kRkb@",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas11.idtpl",
+      "Translations": [],
+      "FileSize": 1556587,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/66b2b53c70e603dcb674a3ef8078690f.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/66b2b53c70e603dcb674a3ef8078690f-160x160.jpg",
+      "Color": "#ff876c87",
+      "BlurHash": "KZLzB#pIm,D~Rlr;03soyD",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas12.idtpl",
+      "Translations": [],
+      "FileSize": 1718416,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8031cc71cafcce6dce79e97c0415dc0e.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8031cc71cafcce6dce79e97c0415dc0e-160x160.jpg",
+      "Color": "#ff636c80",
+      "BlurHash": "KLI=fUxU01-qWUM{Muxs~8",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas13.idtpl",
+      "Translations": [],
+      "FileSize": 1812332,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ac2b16fbd8c05a316dc3a99e5bff00d1.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ac2b16fbd8c05a316dc3a99e5bff00d1-160x160.jpg",
+      "Color": "#ff756283",
+      "BlurHash": "KIKT=Xe\u002B00?bWkM{Di%K_0",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas14.idtpl",
+      "Translations": [],
+      "FileSize": 2451958,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/ea8156d1d9dc1bab11e25e8f7abd6d15.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/ea8156d1d9dc1bab11e25e8f7abd6d15-160x160.jpg",
+      "Color": "#ff8a7d5d",
+      "BlurHash": "KZLgwfXLM^t7xbe.0Jt7o#",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "webapp_christmas06.idtpl",
+      "Translations": [],
+      "FileSize": 1704496,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a7b05bef23533665a25ea7fc802aafb9.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a7b05bef23533665a25ea7fc802aafb9-160x160.jpg",
+      "Color": "#ff6b7f9c",
+      "BlurHash": "KRJS9Lx[0M4:NGxZI[xa-n",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/christmas/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/christmas/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/christmas/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/flash_sales/christmas/page_1.json"
+}

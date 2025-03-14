@@ -1,0 +1,142 @@
+{
+  "Title": "Mega sale",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Mega sale"
+    },
+    {
+      "Language": "fr",
+      "Title": "M\u00E9ga vente"
+    },
+    {
+      "Language": "it",
+      "Title": "Mega saldo"
+    },
+    {
+      "Language": "de",
+      "Title": "Mega-Verkauf"
+    },
+    {
+      "Language": "es",
+      "Title": "Mega venta"
+    }
+  ],
+  "Total": 8,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_7.svg",
+      "Translations": [],
+      "FileSize": 6553,
+      "Width": 1000,
+      "Height": 668,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/8b98c642616a1ab6461cd563d1502262.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/8b98c642616a1ab6461cd563d1502262-160x107.webp",
+      "Color": "#a6b53d3d",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_8.svg",
+      "Translations": [],
+      "FileSize": 10942,
+      "Width": 1000,
+      "Height": 586,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7c45435b87f38cae941f0b38d401f482.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7c45435b87f38cae941f0b38d401f482-160x94.webp",
+      "Color": "#b9ee8282",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_1.svg",
+      "Translations": [],
+      "FileSize": 4679,
+      "Width": 1000,
+      "Height": 300,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/1c4a92b2c4fa1d27e13e4281bd483e0a.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/1c4a92b2c4fa1d27e13e4281bd483e0a-160x48.webp",
+      "Color": "#b8ea5252",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_2.svg",
+      "Translations": [],
+      "FileSize": 3515,
+      "Width": 1000,
+      "Height": 402,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/07fa6836bcc5fa1890e012de7a6076ce.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/07fa6836bcc5fa1890e012de7a6076ce-160x64.webp",
+      "Color": "#8a3281cf",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_3.svg",
+      "Translations": [],
+      "FileSize": 3046,
+      "Width": 1000,
+      "Height": 954,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/50bf5ac95650f9ffb780e6741e00568a.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/50bf5ac95650f9ffb780e6741e00568a-160x153.webp",
+      "Color": "#8b44935f",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_4.svg",
+      "Translations": [],
+      "FileSize": 4471,
+      "Width": 1000,
+      "Height": 962,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/1d460b7967a0ae219d161ec7ec86039d.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/1d460b7967a0ae219d161ec7ec86039d-160x154.webp",
+      "Color": "#992b73b9",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_5.svg",
+      "Translations": [],
+      "FileSize": 2242,
+      "Width": 1000,
+      "Height": 312,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d3c0f20264cd33b89bf09c79a1adec03.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d3c0f20264cd33b89bf09c79a1adec03-160x50.webp",
+      "Color": "#9ec09918",
+      "Premium": false
+    },
+    {
+      "Tag": "SvgAsset",
+      "Name": "Mega sale_6.svg",
+      "Translations": [],
+      "FileSize": 3721,
+      "Width": 1000,
+      "Height": 883,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/7074693dc195f1a1321845ed88450a0c.svg",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/7074693dc195f1a1321845ed88450a0c-160x141.webp",
+      "Color": "#ae151515",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/mega_sale/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/mega_sale/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/mega_sale/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/elements/elements/sales/mega_sale/page_1.json"
+}

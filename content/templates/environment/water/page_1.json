@@ -1,0 +1,241 @@
+{
+  "Title": "Water",
+  "Translations": [
+    {
+      "Language": "en",
+      "Title": "Water"
+    },
+    {
+      "Language": "fr",
+      "Title": "Eau"
+    },
+    {
+      "Language": "it",
+      "Title": "Acqua"
+    },
+    {
+      "Language": "de",
+      "Title": "Wasser"
+    },
+    {
+      "Language": "es",
+      "Title": "Agua"
+    }
+  ],
+  "Total": 15,
+  "PerPage": 50,
+  "PageCount": 0,
+  "Results": [
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-1.idtpl",
+      "Translations": [],
+      "FileSize": 734396,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/403f77f17cbf0995f9c7e5a7a1feb906.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/403f77f17cbf0995f9c7e5a7a1feb906-160x160.jpg",
+      "Color": "#ff6a5e4b",
+      "BlurHash": "KPJay8%M0K-maejsS#xuxu",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-2.idtpl",
+      "Translations": [],
+      "FileSize": 755972,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/10dd917623230654ce6b943ad568af38.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/10dd917623230654ce6b943ad568af38-160x160.jpg",
+      "Color": "#ff504f3e",
+      "BlurHash": "KXH2cckB01?FoeIUxuaykC",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-3.idtpl",
+      "Translations": [],
+      "FileSize": 615655,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/4c55ebc749af3356b9d86b7714df5175.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/4c55ebc749af3356b9d86b7714df5175-160x160.jpg",
+      "Color": "#ff839094",
+      "BlurHash": "KCL}gE-N4.~9Rh8_yY-;?a",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-4.idtpl",
+      "Translations": [],
+      "FileSize": 580501,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a9d57389874511b358df225cfc7fffc9.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a9d57389874511b358df225cfc7fffc9-160x160.jpg",
+      "Color": "#ff8c8f90",
+      "BlurHash": "KFMQ;a4-D$~Vs.9F9ZkCt7",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-5.idtpl",
+      "Translations": [],
+      "FileSize": 773699,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/25d95d1d738cb2c78b3f878b9b114ec6.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/25d95d1d738cb2c78b3f878b9b114ec6-160x160.jpg",
+      "Color": "#ff6a8189",
+      "BlurHash": "KMJ[;g-qoa}\u002BS5Dh9uoIxu",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-6.idtpl",
+      "Translations": [],
+      "FileSize": 720308,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/a7aa9d34dbf06405e4195a3fa79d2a8e.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/a7aa9d34dbf06405e4195a3fa79d2a8e-160x160.jpg",
+      "Color": "#ff748485",
+      "BlurHash": "KIK_qD$jE0~ARjH?%$%L-=",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-7.idtpl",
+      "Translations": [],
+      "FileSize": 777804,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/44c7ebe54518e17e8bfe2a3ae3b09b46.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/44c7ebe54518e17e8bfe2a3ae3b09b46-160x160.jpg",
+      "Color": "#ff778287",
+      "BlurHash": "KFL52e?In#~AW?8_9uxZ-;",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-8.idtpl",
+      "Translations": [],
+      "FileSize": 536504,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/6e5ae5cb05e873c95f89042d2f95a8fa.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/6e5ae5cb05e873c95f89042d2f95a8fa-160x160.jpg",
+      "Color": "#ff999593",
+      "BlurHash": "KJNKI.02%0^\u002BRjMx1S-n-;",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-9.idtpl",
+      "Translations": [],
+      "FileSize": 578225,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/f01d7088fbda27deeb57ac87fe6901e8.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/f01d7088fbda27deeb57ac87fe6901e8-160x160.jpg",
+      "Color": "#ff99c5d9",
+      "BlurHash": "KKNUt_0g%15@ENn$9a9u$%",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-10.idtpl",
+      "Translations": [],
+      "FileSize": 635139,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/d31863417fe94144d780fb2db03d3dd3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/d31863417fe94144d780fb2db03d3dd3-160x160.jpg",
+      "Color": "#ff2d6c97",
+      "BlurHash": "KaD.CBR*4o*0aeni?bbIXn",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-11.idtpl",
+      "Translations": [],
+      "FileSize": 847676,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/27e40df03f97f423c0b77f102d00d3b1.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/27e40df03f97f423c0b77f102d00d3b1-160x160.jpg",
+      "Color": "#ff818a79",
+      "BlurHash": "KXLhC=M{4-_4tQM_%OM{-=",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-12.idtpl",
+      "Translations": [],
+      "FileSize": 480561,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/bf18d3f4a331be4bec50f5c0939ab290.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/bf18d3f4a331be4bec50f5c0939ab290-160x160.jpg",
+      "Color": "#ff6a7578",
+      "BlurHash": "KQJILn?b4-?w%MITI_t6?c",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-13.idtpl",
+      "Translations": [],
+      "FileSize": 567994,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/07147d31490a4925b794b70ed5b34f7d.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/07147d31490a4925b794b70ed5b34f7d-160x160.jpg",
+      "Color": "#ff687374",
+      "BlurHash": "KVI=ogD$4n.AM{aJIwIU?b",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-14.idtpl",
+      "Translations": [],
+      "FileSize": 644879,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/97e89f179b4f1013f4c3ac0f2438dba3.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/97e89f179b4f1013f4c3ac0f2438dba3-160x160.jpg",
+      "Color": "#ff7e837a",
+      "BlurHash": "KQLO1e~U9E^\u002B$yn%yZ%M-=",
+      "Premium": false
+    },
+    {
+      "Tag": "TemplateAsset",
+      "Name": "Water-15.idtpl",
+      "Translations": [],
+      "FileSize": 587823,
+      "Width": 2048,
+      "Height": 2048,
+      "Url": "https://testsqlstorage.blob.core.windows.net/assets/e181bc6386c1c417e1a123a44909d2fb.idtpl",
+      "ThumbUrl": "https://testsqlstorage.blob.core.windows.net/assets/thumbs/sizes/t/e181bc6386c1c417e1a123a44909d2fb-160x160.jpg",
+      "Color": "#ff6b7a7f",
+      "BlurHash": "KNJbgU4nD$pfaKMwJGM}_4",
+      "Premium": false
+    }
+  ],
+  "VerticalLayout": {
+    "$type": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MinColumnSpacing": 8,
+    "MinRowSpacing": 8,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96,
+    "MaximumRowsOrColumns": 3,
+    "ItemsStretch": "None",
+    "ItemsJustification": "Start",
+    "LayoutId": "Uniform Grid"
+  },
+  "FirstPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/water/page_1.json",
+  "PreviousPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/water/page_1.json",
+  "NextPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/water/page_1.json",
+  "LastPage": "https://testsqlstorage.blob.core.windows.net/templates/templates/environment/water/page_1.json"
+}

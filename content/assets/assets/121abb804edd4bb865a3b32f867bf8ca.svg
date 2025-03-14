@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="998" height="732" viewBox="0.37240002, 0.1859482, 185.8276, 136.1141" id="Layer_2" data-name="Layer 2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #91c0bb;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #FFFFFF; fill-opacity:0.002;
+        
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2_00000158006550614329990770000016563410390580861313_unfilled" data-name="Layer 1-2 00000158006550614329990770000016563410390580861313 unfilled">
+    <path d="m93.4 136.3 C42.2 136.3 0.5 105.7 0.5 68.1 S42.2 0 93.4 0 s92.9 30.6 92.9 68.1 s-41.7 68.2 -92.9 68.2 h0 Z m0 -133.6 C44.2 2.7 4.1 32 4.1 68.1 s40 65.5 89.2 65.5 s89.2 -29.4 89.2 -65.5 S142.6 2.7 93.4 2.7 Z" stroke-width="0px" class="cls-1" style="fill:#91C0BB;" />
+  </g>
+  <ellipse cx="93.4" cy="68.2" rx="89.2" ry="65.5" stroke-width="0px" fill-opacity="0" class="cls-2" style="fill:white;" />
+</svg>

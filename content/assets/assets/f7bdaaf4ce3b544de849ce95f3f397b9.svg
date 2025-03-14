@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228.77 220.39">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        mix-blend-mode: overlay;
+        opacity: .96;
+      }
+
+      .cls-5 {
+        mix-blend-mode: multiply;
+        opacity: .15;
+      }
+
+      .cls-3 {
+        fill: #ffdb2b;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <g id="Calque_2" data-name="Calque 2">
+      <g id="Calque_1-2" data-name="Calque 1">
+        <g>
+          <g>
+            <polygon class="cls-3" points="113.89 0 79.35 73.77 0 84.12 56.94 140.61 43.05 220.39 113.89 182.21 184.09 220.39 170.82 140.8 228.77 86.34 149.87 73.07 113.89 0"/>
+            <g class="cls-4">
+              <polygon class="cls-2" points="113.89 0 114.38 115.65 149.87 73.07 113.89 0"/>
+              <polygon class="cls-2" points="114.38 115.65 228.77 86.34 170.82 140.8 114.38 115.65"/>
+              <polygon class="cls-2" points="114.38 115.65 184.09 220.39 113.89 182.21 114.38 115.65"/>
+              <polygon class="cls-2" points="114.38 115.65 113.89 182.21 43.05 220.39 114.38 115.65"/>
+              <polygon class="cls-2" points="114.38 115.65 56.94 140.61 0 84.12 114.38 115.65"/>
+            </g>
+          </g>
+          <polygon class="cls-3" points="113.89 0 79.35 73.77 0 84.12 56.94 140.61 43.05 220.39 113.89 182.21 184.09 220.39 170.82 140.8 228.77 86.34 149.87 73.07 113.89 0"/>
+          <g class="cls-5">
+            <polygon class="cls-2" points="113.89 0 114.38 115.65 149.87 73.07 113.89 0"/>
+            <polygon class="cls-2" points="114.38 115.65 228.77 86.34 170.82 140.8 114.38 115.65"/>
+            <polygon class="cls-2" points="114.38 115.65 184.09 220.39 113.89 182.21 114.38 115.65"/>
+            <polygon class="cls-2" points="114.38 115.65 113.89 182.21 43.05 220.39 114.38 115.65"/>
+            <polygon class="cls-2" points="114.38 115.65 56.94 140.61 0 84.12 114.38 115.65"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
