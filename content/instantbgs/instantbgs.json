@@ -31,7 +31,7 @@
         "Data": "sur une table en bois clair",
         "Width": 6000,
         "Height": 4000,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000422-160x107.webp",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/00000422-160x107.webp",
         "BlurHash": "L6DvWVWU0ej[^*j[a}oL4:R\u002BRjjZ",
         "Color": "#ff312d28"
       },
@@ -40,7 +40,7 @@
         "Data": "sur une table en béton",
         "Width": 3992,
         "Height": 2992,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000423-160x120.webp",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/00000423-160x120.webp",
         "BlurHash": "L7L}jYNGVs%N_4-;Rj9Y4nD%-;-=",
         "Color": "#ff8699b2"
       },
@@ -49,7 +49,7 @@
         "Data": "sur une table en marbre clair",
         "Width": 6000,
         "Height": 4000,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000424-160x107.webp",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/00000424-160x107.webp",
         "BlurHash": "L8Ps*MRO_NofM{WVofafWWofR%ay",
         "Color": "#ffb8b9bc"
       },
@@ -58,13 +58,13 @@
         "Data": "sur une table en bois foncé",
         "Width": 9000,
         "Height": 3000,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/00000425-160x53.webp",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/00000425-160x53.webp",
         "BlurHash": "LHPPfM009Ftl-:RjRjkC%Me.aeWV",
         "Color": "#ffb59774"
       }
     ],
-    "FirstUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/page_1.json",
-    "NextUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/page_1.json",
-    "LastUrl": "https://stage-saas1.inpixio.com/content/instantbgs/comptoir/page_1.json"
+    "FirstUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/page_1.json",
+    "NextUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/page_1.json",
+    "LastUrl": "https://dbriard.github.io/designer/content/instantbgs/comptoir/page_1.json"
   }
 ]

@@ -13,55 +13,55 @@
     "Results": [
       {
         "Id": "beautiful interior at sunset anime style",
-        "Url": "https://stage-saas1.inpixio.com/content/ai/samples/beautiful_interior_at_sunset_anime_style.jpg",
+        "Url": "https://dbriard.github.io/designer/content/ai/samples/beautiful_interior_at_sunset_anime_style.jpg",
         "Width": 1024,
         "Height": 1024,
         "FileSize": 639266,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/ai/samples/beautiful_interior_at_sunset_anime_style-148x148.jpg",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/ai/samples/beautiful_interior_at_sunset_anime_style-148x148.jpg",
         "Color": "#ff9d6666",
         "BlurHash": "KUN9OnWYE1-=bHs:0ft6ba",
         "Data": "beautiful interior at sunset anime style"
       },
       {
         "Id": "beautiful interior at sunset pixel art",
-        "Url": "https://stage-saas1.inpixio.com/content/ai/samples/beautiful_interior_at_sunset_pixel_art.jpg",
+        "Url": "https://dbriard.github.io/designer/content/ai/samples/beautiful_interior_at_sunset_pixel_art.jpg",
         "Width": 1024,
         "Height": 1024,
         "FileSize": 666117,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/ai/samples/beautiful_interior_at_sunset_pixel_art-148x148.jpg",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/ai/samples/beautiful_interior_at_sunset_pixel_art-148x148.jpg",
         "Color": "#ff894d46",
         "BlurHash": "KKL.}N=|0f^%obIqIWbHof",
         "Data": "beautiful interior at sunset pixel art"
       },
       {
         "Id": "beautiful interior at sunset realistic",
-        "Url": "https://stage-saas1.inpixio.com/content/ai/samples/beautiful_interior_at_sunset_realistic.jpg",
+        "Url": "https://dbriard.github.io/designer/content/ai/samples/beautiful_interior_at_sunset_realistic.jpg",
         "Width": 1024,
         "Height": 1024,
         "FileSize": 626550,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/ai/samples/beautiful_interior_at_sunset_realistic-148x148.jpg",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/ai/samples/beautiful_interior_at_sunset_realistic-148x148.jpg",
         "Color": "#ff7d6051",
         "BlurHash": "KCL3}p$%0L%hV@9a02WC?G",
         "Data": "beautiful interior at sunset realistic"
       },
       {
         "Id": "dog with sunglasses eating a pizza",
-        "Url": "https://stage-saas1.inpixio.com/content/ai/samples/dog_with_sunglasses_eating_a_pizza.jpg",
+        "Url": "https://dbriard.github.io/designer/content/ai/samples/dog_with_sunglasses_eating_a_pizza.jpg",
         "Width": 1024,
         "Height": 1024,
         "FileSize": 639460,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/ai/samples/dog_with_sunglasses_eating_a_pizza-148x148.jpg",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/ai/samples/dog_with_sunglasses_eating_a_pizza-148x148.jpg",
         "Color": "#ff967e6d",
         "BlurHash": "KBNTH^VsGu10yD-n#6wbE2",
         "Data": "dog with sunglasses eating a pizza"
       },
       {
         "Id": "tiger playing soccer",
-        "Url": "https://stage-saas1.inpixio.com/content/ai/samples/tiger_playing_soccer.jpg",
+        "Url": "https://dbriard.github.io/designer/content/ai/samples/tiger_playing_soccer.jpg",
         "Width": 1024,
         "Height": 1024,
         "FileSize": 663713,
-        "ThumbUrl": "https://stage-saas1.inpixio.com/content/ai/samples/tiger_playing_soccer-148x148.jpg",
+        "ThumbUrl": "https://dbriard.github.io/designer/content/ai/samples/tiger_playing_soccer-148x148.jpg",
         "Color": "#ff77715a",
         "BlurHash": "KGL4m7aeJ705t7RnyCt7sA",
         "Data": "tiger playing soccer"
@@ -81,8 +81,8 @@
       "MinItemWidth": 96,
       "MinItemHeight": 96
     },
-    "FirstUrl": "https://stage-saas1.inpixio.com/content/ai/samples/page_1.json",
-    "NextUrl": "https://stage-saas1.inpixio.com/content/ai/samples/page_1.json",
+    "FirstUrl": "https://dbriard.github.io/designer/content/ai/samples/page_1.json",
+    "NextUrl": "https://dbriard.github.io/designer/content/ai/samples/page_1.json",
     "Featured": 12
   }
 ]

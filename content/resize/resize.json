@@ -11,7 +11,7 @@
     "Items": [
       {
         "Name": "Facebook",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/facebook.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/facebook.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -56,7 +56,7 @@
       },
       {
         "Name": "Instagram",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/instagram.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/instagram.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -101,7 +101,7 @@
       },
       {
         "Name": "LinkedIn",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/linkedin.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/linkedin.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -135,7 +135,7 @@
       },
       {
         "Name": "Pinterest",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/pinterest.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/pinterest.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -191,7 +191,7 @@
       },
       {
         "Name": "Snapchat",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/snapchat.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/snapchat.webp",
         "Translations": [
           {
             "Language": "fr",
@@ -214,7 +214,7 @@
       },
       {
         "Name": "TikTok",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/tiktok.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/tiktok.webp",
         "Translations": [
           {
             "Language": "fr",
@@ -248,7 +248,7 @@
       },
       {
         "Name": "X (Twitter)",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/twitter.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/twitter.webp",
         "Translations": [
           {
             "Language": "fr",
@@ -282,7 +282,7 @@
       },
       {
         "Name": "Youtube",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/youtube.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/youtube.webp",
         "Translations": [
           {
             "Language": "fr",
@@ -339,7 +339,7 @@
     "Items": [
       {
         "Name": "AliExpress",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/aliexpress.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/aliexpress.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -362,7 +362,7 @@
       },
       {
         "Name": "Amazon",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/amazon.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/amazon.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -385,7 +385,7 @@
       },
       {
         "Name": "Depop",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/depop.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/depop.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -408,7 +408,7 @@
       },
       {
         "Name": "Dhgate",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/dhgate.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/dhgate.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -431,7 +431,7 @@
       },
       {
         "Name": "Ebay",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/ebay.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/ebay.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -454,7 +454,7 @@
       },
       {
         "Name": "Etsy",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/etsy.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/etsy.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -499,7 +499,7 @@
       },
       {
         "Name": "Facebook Marketplace",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/facebook.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/facebook.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -522,7 +522,7 @@
       },
       {
         "Name": "Kijiji",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/kijiji.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/kijiji.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -545,7 +545,7 @@
       },
       {
         "Name": "Lazada",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/lazada.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/lazada.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -568,7 +568,7 @@
       },
       {
         "Name": "Leboncoin",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/leboncoin.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/leboncoin.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -591,7 +591,7 @@
       },
       {
         "Name": "Magento",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/magento.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/magento.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -614,7 +614,7 @@
       },
       {
         "Name": "Mercado Libre",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/mercadolibre.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/mercadolibre.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -637,7 +637,7 @@
       },
       {
         "Name": "Mercari",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/mercari.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/mercari.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -660,7 +660,7 @@
       },
       {
         "Name": "Prestashop",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/prestashop.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/prestashop.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -683,7 +683,7 @@
       },
       {
         "Name": "PoshMark",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/poshmark.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/poshmark.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -706,7 +706,7 @@
       },
       {
         "Name": "Shopee",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/shopee.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/shopee.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -729,7 +729,7 @@
       },
       {
         "Name": "Shopify",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/shopify.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/shopify.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -774,7 +774,7 @@
       },
       {
         "Name": "Vinted",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/vinted.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/vinted.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -797,7 +797,7 @@
       },
       {
         "Name": "Wix Store",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/wix.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/wix.webp",
         "Translations":[
           {
             "Language": "fr",
@@ -820,7 +820,7 @@
       },
       {
         "Name": "WooCommerce",
-        "Icon": "https://stage-saas1.inpixio.com/content/resize/icons/woocommerce.webp",
+        "Icon": "https://dbriard.github.io/designer/content/resize/icons/woocommerce.webp",
         "Translations":[
           {
             "Language": "fr",
