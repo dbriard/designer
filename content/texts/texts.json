@@ -43,22 +43,10 @@
           "Language": "es"
         }
       ],
-      "Total": 10,
+      "Total": 9,
       "PerPage": 50,
       "PageCount": 1,
       "Results": [
-        {
-          "Tag": "TextAsset",
-          "Name": "I Love inPixio.zip",
-          "Translations": [],
-          "FileSize": 6085,
-          "Width": 439,
-          "Height": 132,
-          "Url": "https://dbriard.github.io/designer/content/assets/112a4b117a540fb0b802ac6f1cd16bc8.zip",
-          "ThumbUrl": "https://dbriard.github.io/designer/content/assets/thumbs/sizes/t/112a4b117a540fb0b802ac6f1cd16bc8-160x58.webp",
-          "Color": "#2d8e171c",
-          "Premium": false
-        },
         {
           "Tag": "TextAsset",
           "Name": "Inverted.zip",

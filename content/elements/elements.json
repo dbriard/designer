@@ -23,7 +23,6 @@
     }
   ],
   "Collections": [
-    
     {
       "Title": "Graphics",
       "Translations": [
@@ -48,7 +47,7 @@
           "Title": "Gr\u00E1ficos"
         }
       ],
-      "Total": 4,
+      "Total": 1,
       "PerPage": 4,
       "PageCount": 1,
       "Results": [
@@ -58,7 +57,7 @@
           "Translations": [
             {
               "Language": "en",
-              "Title": "2024/07/01 16:24:15"
+              "Title": "Emojis"
             },
             {
               "Language": "fr"
@@ -96,5 +95,5 @@
         "LayoutId": "Uniform Grid"
       }
     }
-  }
+  ]
 }
